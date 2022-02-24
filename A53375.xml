@@ -1,0 +1,3027 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Oniropolus, or dreams interpreter. Being several aphorisms upon the physiognomy of dreams made into verse. Some of which receive a general interpretation: and others of them have respect to the course of the moon in the zodiack. To which is added several physiognomical characters of persons of different humours and inclinations. After which follows the praise of ale. And lastly, the wheel of fortune, or Pithagoras wheel.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 114 KB of XML-encoded text transcribed from 57 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53375</idno>
+            <idno type="STC">Wing O345A</idno>
+            <idno type="STC">ESTC R222614</idno>
+            <idno type="EEBO-CITATION">99833767</idno>
+            <idno type="PROQUEST">99833767</idno>
+            <idno type="VID">38245</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53375)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 38245)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1784:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Oniropolus, or dreams interpreter. Being several aphorisms upon the physiognomy of dreams made into verse. Some of which receive a general interpretation: and others of them have respect to the course of the moon in the zodiack. To which is added several physiognomical characters of persons of different humours and inclinations. After which follows the praise of ale. And lastly, the wheel of fortune, or Pithagoras wheel.</title>
+                  <author>Hove, Frederick Hendrick van, 1628?-1698, engraver.</author>
+               </titleStmt>
+               <extent>[16], 53, 52-86, [4] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho. Dawkes,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a half title; frontis. on verso.</note>
+                  <note>Frontis. signed: F. H. van Houe. sculp.</note>
+                  <note>Numerous errors in pagination.</note>
+                  <note>F.l. = A table of the physiognomal characters.</note>
+                  <note>In verse.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dreams interpretation --  Poetry --  Early works to 1800.</term>
+               <term>Astrology --  Poetry --  Early works to 1800.</term>
+               <term>Ale --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:38245:1" rendition="simple:additions"/>
+            <p>ONIROPOLUS, OR, Dreams Interpreter. BEING Several Aphoriſms upon the Phyſiogno<g ref="char:EOLhyphen"/>my of DREAMS made into Verſe.</p>
+            <p>Some of which receive a general Interpretation: And others of them have reſpect to the Courſe of the Moon in the <hi>Zodiack.</hi>
+            </p>
+            <p>
+               <hi>To which is added</hi> Several Phyſiognomal CHARACTERS of Perſons of Different Humours and Inclinations.</p>
+            <p>After which follows the Praiſe of ALE.</p>
+            <p>
+               <hi>And laſtly,</hi> The WHEEL of Fortune, or <hi>Pithagoras WHEEL.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Dawks,</hi> 1680.</p>
+            <pb facs="tcp:38245:2"/>
+            <pb facs="tcp:38245:2" rendition="simple:additions"/>
+            <p>Dreams Interpreter.</p>
+         </div>
+         <div type="engraving">
+            <pb facs="tcp:38245:3"/>
+            <p>
+               <figure>
+                  <p>Oniropolus</p>
+                  <p>hold but your peace a little while, bee still and I the meaning of your dreame will tell</p>
+                  <p>J dreamed of Joy and mirth.</p>
+                  <p>J dreamed of ugly spiritts.</p>
+                  <head>ffearfull dreames by ſatyrs repreſented bee. and jocund pleaſant dreames by mercury.</head>
+                  <p>London Printed in The year 1680</p>
+                  <signed>F.H. Van Houe. Sculp.</signed>
+               </figure>
+            </p>
+            <pb facs="tcp:38245:3"/>
+            <pb facs="tcp:38245:4"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:38245:4"/>
+            <lg>
+               <head>To the READER.</head>
+               <l>REader, this Imp I ſend out in this Dreſs,</l>
+               <l>Which Palats most will pleaſe, as I do gueſs;</l>
+               <l>And that the better it may give Content,</l>
+               <l>In dreaming Verſe, I have the ſame out-ſent.</l>
+               <l>Expect no fine Hyperboles or words,</l>
+               <l>The ſubject Matter none ſuch here affords;</l>
+               <l>Such as it is, Thou'rt welcome to peruſe,</l>
+               <l>If it diſlike, yet offer no Abuſe;</l>
+               <l>But whether thou approve of it or no,</l>
+               <l>It's no great matter, I care not a Straw.</l>
+               <closer>
+                  <salute>Vale</salute>
+               </closer>
+            </lg>
+            <q>
+               <lg>
+                  <head>Ad Momum.</head>
+                  <l>
+                     <hi>Carpere vel noli noſtra, vel ede tua.</hi>
+                  </l>
+                  <l>Or Carp not at theſe lines of mine,</l>
+                  <l>Or cauſe for to be publiſh'd thine.</l>
+               </lg>
+            </q>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:38245:5"/>
+            <head>To <hi>His Ingenious Friend</hi> ON HIS ONIROPOLUS.</head>
+            <l>THy Miſcelanious Pamphlet, my kind Friend,</l>
+            <l>VVhich lately thou to me didſt recommend,</l>
+            <l>So full of quaint Conceits is ſtuff'd, and wit,</l>
+            <l>That I can not ſufficiently praiſe it:</l>
+            <l>Thy Book is ſmall, and ſo I will be brief,</l>
+            <l>Of Petty drolling Pamphlets, thine's the Chief.</l>
+            <signed>F.W.</signed>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:38245:5"/>
+            <head>THE TABLE.</head>
+            <list>
+               <item>
+                  <hi>1.</hi> ON a Peacock.</item>
+               <item>
+                  <hi>2.</hi> On a Horſe.</item>
+               <item>
+                  <hi>3.</hi> On Nakedneſs.</item>
+               <item>
+                  <hi>4.</hi> On Drunkenneſs.</item>
+               <item>
+                  <hi>5.</hi> On Marriages and Weddings.</item>
+               <item>
+                  <hi>6.</hi> On Mountains and high Places.</item>
+               <item>
+                  <hi>7.</hi> On Birds.</item>
+               <item>
+                  <hi>8.</hi> On Games.</item>
+               <item>
+                  <hi>9.</hi> On ſeeing of Hair.</item>
+               <item>
+                  <hi>10.</hi> On Bees.</item>
+               <item>
+                  <hi>11.</hi> On the Apparitions of Saints:</item>
+               <item>
+                  <hi>12.</hi> On Burials and Funerals.</item>
+               <item>
+                  <hi>13.</hi> On a Cat.</item>
+               <item>
+                  <hi>14.</hi> On God.</item>
+               <pb facs="tcp:38245:6"/>
+               <item>
+                  <hi>15.</hi> On Christ.</item>
+               <item>
+                  <hi>16.</hi> On Angels.</item>
+               <item>
+                  <hi>17.</hi> On the Face.</item>
+               <item>
+                  <hi>18.</hi> On the Privities.</item>
+               <item>
+                  <hi>19.</hi> On biting ones Nails.</item>
+               <item>
+                  <hi>20.</hi> On Riding in Coaches.</item>
+               <item>
+                  <hi>21.</hi> On Places of Execution.</item>
+               <item>
+                  <hi>22.</hi> On Heaven.</item>
+               <item>
+                  <hi>23.</hi> On the Sun.</item>
+               <item>
+                  <hi>24.</hi> On the Moon.</item>
+               <item>
+                  <hi>25.</hi> On the Stars.</item>
+               <item>
+                  <hi>26.</hi> On thy Fingers.</item>
+               <item>
+                  <hi>27.</hi> On thy feet.</item>
+               <item>
+                  <hi>28.</hi> On ſhiting.</item>
+               <item>
+                  <hi>29.</hi> On Cracking Nuts and roaſting Apples,</item>
+               <item>
+                  <hi>30.</hi> On Evil Spirits and Apparitions.</item>
+               <item>
+                  <hi>31.</hi> On the Eclipſe of the Sun and Moon.</item>
+               <item>
+                  <hi>32.</hi> On piſſing.</item>
+               <item>
+                  <hi>33.</hi> On Apes and Munkies.</item>
+               <item>
+                  <hi>34.</hi> On Writing Letters.</item>
+               <item>
+                  <hi>35</hi> On a Ladder.</item>
+               <item>
+                  <hi>36.</hi> On Oxen.</item>
+               <item>
+                  <hi>37.</hi> On ſticking fast in Mire or Bryars.</item>
+               <item>
+                  <hi>38.</hi> On the Church and holy Duties.</item>
+               <item>
+                  <hi>39.</hi> On Bells ringing.</item>
+               <item>
+                  <hi>40.</hi> On a Beard.</item>
+               <item>
+                  <hi>41.</hi> On a Swan.</item>
+               <pb facs="tcp:38245:6"/>
+               <item>
+                  <hi>42.</hi> On Pigeons.</item>
+               <item>
+                  <hi>43.</hi> On deep Pits and Wells.</item>
+               <item>
+                  <hi>44.</hi> On Teeth.</item>
+               <item>
+                  <hi>45.</hi> On Serpents and Toads.</item>
+               <item>
+                  <hi>46.</hi> On Graves.</item>
+               <item>
+                  <hi>47.</hi> On Peaſe.</item>
+               <item>
+                  <hi>48.</hi> On Beans.</item>
+               <item>
+                  <hi>49.</hi> On being in a fine Hall.</item>
+               <item>
+                  <hi>50.</hi> On blowing up the fire.</item>
+               <item>
+                  <hi>51.</hi> On Crows Croaking.</item>
+               <item>
+                  <hi>52.</hi> On Bleeding.</item>
+               <item>
+                  <hi>53.</hi> On Drinking.</item>
+               <item>
+                  <hi>54.</hi> On dandling of Children.</item>
+               <item>
+                  <hi>55.</hi> On Dogs or Wolves barking.</item>
+               <item>
+                  <hi>56.</hi> On a high Way.</item>
+               <item>
+                  <hi>57.</hi> On Navigation.</item>
+               <item>
+                  <hi>58.</hi> On a Hare or Hart.</item>
+               <item>
+                  <hi>59.</hi> On gathering fruit.</item>
+               <item>
+                  <hi>60.</hi> On a hanſom woman.</item>
+               <item>
+                  <hi>61.</hi> On looking thy ſelf in a Glaſs.</item>
+               <item>
+                  <hi>62.</hi> On flying in the Air.</item>
+               <item>
+                  <hi>63.</hi> On Souldiers.</item>
+               <item>
+                  <hi>64.</hi> On Gifts and Preſents.</item>
+               <item>
+                  <hi>65.</hi> On Running.</item>
+               <item>
+                  <hi>66.</hi> On Birds ſinging.</item>
+               <item>
+                  <hi>67.</hi> On the grave.</item>
+               <pb facs="tcp:38245:7"/>
+               <item>
+                  <hi>68.</hi> On a Bunch of Keys.</item>
+               <item>
+                  <hi>69.</hi> On looſing a Wedding Ring.</item>
+               <item>
+                  <hi>70.</hi> On an Old Woman wooing thee.</item>
+               <item>
+                  <hi>71.</hi> On Vermin and lice.</item>
+               <item>
+                  <hi>72.</hi> On Dung and muck.</item>
+               <item>
+                  <hi>73.</hi> On looſing thy ſhoos.</item>
+               <item>
+                  <hi>74.</hi> On Bulls.</item>
+               <item>
+                  <hi>75.</hi> On Cowcumbers.</item>
+               <item>
+                  <hi>76.</hi> On Fire.</item>
+               <item>
+                  <hi>77.</hi> On walking in a Garden.</item>
+               <item>
+                  <hi>78.</hi> On Eggs.</item>
+               <item>
+                  <hi>79.</hi> On a Lyon.</item>
+               <item>
+                  <hi>80.</hi> On fat or lean Cattel.</item>
+               <item>
+                  <hi>81.</hi> On rare Muſick.</item>
+               <item>
+                  <hi>82.</hi> On Thunder and Lightning.</item>
+               <item>
+                  <hi>83.</hi> On a Mule carrying Books.</item>
+               <item>
+                  <hi>84.</hi> On a Candle.</item>
+               <item>
+                  <hi>85.</hi> On being in a Tavern.</item>
+               <item>
+                  <hi>86.</hi> On dying Stuffs.</item>
+               <item>
+                  <hi>87.</hi> On Eating herbs in a Sallet.</item>
+               <item>
+                  <hi>88.</hi> On Knives, Daggers or Swords.</item>
+               <item>
+                  <hi>89.</hi> On Graſhoppers.</item>
+               <item>
+                  <hi>90.</hi> On Thieves breaking ones houſe.</item>
+               <item>
+                  <hi>91.</hi> On Iron.</item>
+               <item>
+                  <hi>92.</hi> On a Woman injoying a man.</item>
+               <item>
+                  <hi>93.</hi> On keeping Cattel.</item>
+               <pb facs="tcp:38245:7"/>
+               <item>
+                  <hi>94.</hi> On Gold.</item>
+               <item>
+                  <hi>95.</hi> On Fouling and fiſhing.</item>
+               <item>
+                  <hi>96.</hi> On Oranges.</item>
+               <item>
+                  <hi>97.</hi> On falling from ones Seat.</item>
+               <item>
+                  <hi>98.</hi> On Quails.</item>
+               <item>
+                  <hi>99.</hi> On Hunting.</item>
+               <item>
+                  <hi>100.</hi> On Horns.</item>
+               <item>
+                  <hi>101.</hi> On the Noſe.</item>
+               <item>
+                  <hi>102.</hi> On the Ears.</item>
+               <item>
+                  <hi>103.</hi> On a Woman in Labor.</item>
+               <item>
+                  <hi>104.</hi> On Cutting the Throat.</item>
+               <item>
+                  <hi>105.</hi> On being with Child.</item>
+               <item>
+                  <hi>106.</hi> On a Fox.</item>
+               <item>
+                  <hi>107.</hi> On going to School.</item>
+               <item>
+                  <hi>108.</hi> On a Wolf.</item>
+               <item>
+                  <hi>109.</hi> On Earth-worms.</item>
+               <item>
+                  <hi>110.</hi> On Frogs.</item>
+               <item>
+                  <hi>111.</hi> On the Air.</item>
+               <item>
+                  <hi>112.</hi> On water.</item>
+               <item>
+                  <hi>113.</hi> On Flowers.</item>
+               <item>
+                  <hi>114.</hi> On Corn.</item>
+               <item>
+                  <hi>115.</hi> On Bread.</item>
+               <item>
+                  <hi>116.</hi> On Broth.</item>
+               <item>
+                  <hi>117.</hi> On Roast meat.</item>
+               <item>
+                  <hi>118.</hi> On Cakes, Tarts and Pies.</item>
+               <item>
+                  <hi>119.</hi> On Capons or Hens Crowing.</item>
+               <pb facs="tcp:38245:8"/>
+               <item>
+                  <hi>120.</hi> On eating Fiſh.</item>
+               <item>
+                  <hi>121.</hi> On a Cypreſs Tree.</item>
+               <item>
+                  <hi>122.</hi> On a Lawrel Tree.</item>
+               <item>
+                  <hi>123.</hi> On Maſons.</item>
+               <item>
+                  <hi>124.</hi> On the Breaſt and Paps.</item>
+               <item>
+                  <hi>125.</hi> On ſheep and Cows.</item>
+               <item>
+                  <hi>126.</hi> On turning Spit.</item>
+               <item>
+                  <hi>127.</hi> On joy and Gladneſs.</item>
+               <item>
+                  <hi>128.</hi> On Weeping and Lamentation.</item>
+               <item>
+                  <hi>129.</hi> On Cloathing and Apparel.</item>
+               <item>
+                  <hi>130.</hi> On Great Waters and Rivers.</item>
+               <item>
+                  <hi>131.</hi> On the living Creatures of the Water.</item>
+               <item>
+                  <hi>132.</hi> On the Chances and Misfortunes of Men.</item>
+               <item>
+                  <hi>133.</hi> On Buildings.</item>
+               <item>
+                  <hi>134.</hi> On the Abuſe of Members.</item>
+               <item>
+                  <hi>135.</hi> On Singing and Mirth.</item>
+               <item>
+                  <hi>136.</hi> On the Arival of a Friend.</item>
+               <item>
+                  <hi>137.</hi> On Change of Habitation.</item>
+               <item>
+                  <hi>138.</hi> On the ſeeing of Fire.</item>
+               <item>
+                  <hi>139.</hi> On Riding and Travelling.</item>
+               <item>
+                  <hi>140.</hi> On Murder and Killing.</item>
+               <item>
+                  <hi>141.</hi> On dead People.</item>
+               <item>
+                  <hi>142.</hi> On Bathing in Water.</item>
+               <item>
+                  <hi>143.</hi> On Money.</item>
+               <item>
+                  <hi>144.</hi> On fear of ſome ſight.</item>
+               <item>
+                  <hi>145.</hi> On fighting and Quarrels.</item>
+               <pb facs="tcp:38245:8"/>
+               <item>
+                  <hi>146.</hi> On robbing a man.</item>
+               <item>
+                  <hi>147.</hi> Of Diſeaſes and Sickneſs.</item>
+               <item>
+                  <hi>148.</hi> On Kiſſes and Imbraces.</item>
+               <item>
+                  <hi>149.</hi> On Banquets and Feaſts.</item>
+               <item>
+                  <hi>150.</hi> On Aſſemblies and great Meetings.</item>
+            </list>
+            <list>
+               <head>The Signification of Dreams in the ſeveral dayes of the Moons Age.</head>
+               <item>DReams in the firſt day, ſhall be true.</item>
+               <item>The <hi>2</hi> day, <g ref="char:V">Ʋ</g>nprofitable.</item>
+               <item>The <hi>3</hi> day, Very good.</item>
+               <item>The <hi>4</hi> day, of no Effect.</item>
+               <item>The <hi>5</hi> day, if good Dreams, true, elſe not.</item>
+               <pb facs="tcp:38245:9"/>
+               <item>The <hi>6</hi> day, They ſhall be ſuſpended.</item>
+               <item>The <hi>7</hi> day, Not to be revealed.</item>
+               <item>The <hi>8</hi> day, Certain and true.</item>
+               <item>The <hi>9</hi> day, Good and happy next day.</item>
+               <item>The <hi>10</hi> day, VVill come to paſs ſoon after.</item>
+               <item>The <hi>11</hi> day, Of no Effect.</item>
+               <item>The <hi>12</hi> day, Rather good than bad.</item>
+               <item>The <hi>13</hi> day, True.</item>
+               <item>The <hi>14</hi> day, In ſuspence.</item>
+               <item>The <hi>15</hi> day, Most true.</item>
+               <item>The <hi>16</hi> day, Effectual.</item>
+               <item>The <hi>17</hi> day, True after <hi>3</hi> days.</item>
+               <item>The <hi>18</hi> day, Certain.</item>
+               <item>The <hi>19</hi> day, Ill.</item>
+               <item>The <hi>20</hi> day, True.</item>
+               <item>The <hi>21</hi> day, Vain and unprofitable.</item>
+               <item>The <hi>22</hi> day, True.</item>
+               <item>The <hi>23</hi> day, Falſe.</item>
+               <item>The <hi>24</hi> day, without effect.</item>
+               <item>The <hi>25</hi> day, <g ref="char:V">Ʋ</g>nfortunate.</item>
+               <item>The <hi>26</hi> day, Certain.</item>
+               <item>The <hi>27</hi> day, strong for Dreams.</item>
+               <item>The <hi>28</hi> day, Good to any.</item>
+               <item>The <hi>29</hi> day, Fortunate and good</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:38245:9"/>
+            <head>ONIROPOLUS. OR, Dreams Interpreter.</head>
+            <div type="part">
+               <div type="section">
+                  <head type="sub">
+                     <hi>BEING</hi> The Signification generally of ſeveral Re<g ref="char:EOLhyphen"/>preſentations in Dreams, without any reſpect to be had to the Courſe of the Moon in the Zodiack.</head>
+                  <lg n="1">
+                     <head>1. <hi>On a</hi> Peacock.</head>
+                     <l>TO See a Peacock in thy Dream, doth ſhew,</l>
+                     <l>Riches and handſom Wife, perhaps a Shrew,</l>
+                     <l>And if a Woman chance to have ſuch dream,</l>
+                     <l>It ſhews a pritty Husband, but Cot-quean.</l>
+                  </lg>
+                  <lg n="2">
+                     <head>
+                        <hi>2.</hi> On a Horſe.</head>
+                     <l>To dream an Horſe you mount, or, one do ſee,</l>
+                     <l>Good Omen to the Dreamer it will be.</l>
+                     <pb n="2" facs="tcp:38245:10"/>
+                     <l>And if you dream, upon an Horſe you ride,</l>
+                     <l>That is not dock'd, but tail hath long and ſide,</l>
+                     <l>Then in your Undertakings you ſhall have</l>
+                     <l>Many good friends, who will aſſiſtance give.</l>
+                     <l>But if you dream another rides your Steed,</l>
+                     <l>Without Conſent, a Gallant to your Bed</l>
+                     <l>Your Wife receiv's, &amp; hath her credit crack'd,</l>
+                     <l>And you perhaps ſhall take them in the Act.</l>
+                  </lg>
+                  <lg n="3">
+                     <head>
+                        <hi>3.</hi> On Nakedneſs.</head>
+                     <l>Thoſe that do dream that they ſee naked men,</l>
+                     <l>Let ſuch beware of fear and perils then:</l>
+                     <l>But if a naked woman do appear,</l>
+                     <l>Joy, comfort, and delight, then draweth near,</l>
+                     <l>If ſhe be hanſom, young, clear-skind withal,</l>
+                     <l>But crook'd and old, ill Luck will then befal.</l>
+                     <l>To dream thy wife lies naked in thy arms,</l>
+                     <l>It ſhews deſceit, take heed therefore of harms,</l>
+                     <l>But if a wedded wife ſhall ſuch Dream have,</l>
+                     <l>Aſſiſtance in affairs ſhe ſhall receive.</l>
+                  </lg>
+                  <lg n="4">
+                     <head>
+                        <hi>4.</hi> On Drunkenneſs.</head>
+                     <l>To dream of being drunk, the Learned ſay,</l>
+                     <l>Increaſe of Wealth, and perfect health alway</l>
+                     <l>It ſhews; but to be Drunken without Wine,</l>
+                     <l>That to the Dreamer is but a bad Sign,</l>
+                     <pb n="3" facs="tcp:38245:10"/>
+                     <l>And ſhews he ſome Diſgrace ſhall undergo</l>
+                     <l>For ſome bad Deed, and ſuffer ſhall the Law.</l>
+                     <l>Who Dreams he's Drunk with Sack or ſweet Wine, then</l>
+                     <l>Such Perſon wealth and love gets by great men.</l>
+                     <l>But if thou Dreameſt, Thou'rt Drunk with water,</l>
+                     <l>It ſhews Idle Boaſting and a Prater.</l>
+                     <l>And if thou thinkſt thou'rt Drunken till thou ſpews</l>
+                     <l>Thy Prince ſhall ſeize thy ill-got Goods, it ſhews.</l>
+                     <l>And who does Dream he at his Heart hath pain,</l>
+                     <l>And in his Entrails when he's Drunk, 'tis plain,</l>
+                     <l>That of his Money hee'l be Defeated</l>
+                     <l>By his own Servants, and ſhall be cheated.</l>
+                  </lg>
+                  <lg n="5">
+                     <head>
+                        <hi>5.</hi> On Marriages and Weddings.</head>
+                     <l>Dreams of Marriage or Wedding a Woman,</l>
+                     <l>To ſhew the Death of ſome Friend is common:</l>
+                     <l>And if thou thinkſt thou'ſt had a Marriage new,</l>
+                     <l>And with thy new Wife thou haſt had to do;</l>
+                     <l>Some Evil Accident, the Learned ſay,</l>
+                     <l>Will probably befal you the next day.</l>
+                  </lg>
+                  <lg n="6">
+                     <head>
+                        <hi>6.</hi> On Mountains and High places.</head>
+                     <l>To dream thou climbs up ſome high place &amp; there</l>
+                     <l>See great Precipices that makes thee fear:</l>
+                     <l>It ſhews fear of Juſtice, or ſome great man</l>
+                     <l>That Threatens to undoe Thee if he can:</l>
+                     <pb n="4" facs="tcp:38245:11"/>
+                     <l>And when with pains and toil you climb the Hill,</l>
+                     <l>It ſhews you pains muſt take before you will</l>
+                     <l>Thoſe Dignities and wiſhed Honours gain:</l>
+                     <l>Which you purſue and hope for to obtain.</l>
+                     <l>And if from ſuch high place you catch a fall,</l>
+                     <l>And yet thereby you get no hurt at all:</l>
+                     <l>You in your Buſineſs ſhall have ſome croſs,</l>
+                     <l>But ſhall evade it without any loſs.</l>
+                  </lg>
+                  <lg n="7">
+                     <head>
+                        <hi>7.</hi> On Birds.</head>
+                     <l>He that doth Dream great Flocks of Birds he ſaw,</l>
+                     <l>Aſſemblies ſignifies, and Suits at Law:</l>
+                     <l>And Bats and Owls bad Omens are ſome ſay,</l>
+                     <l>And ill doth Buſineſs ſucceed that day.</l>
+                  </lg>
+                  <lg n="8">
+                     <head>
+                        <hi>8.</hi> On Games.</head>
+                     <l>If at the Cards or Dice you Dream you play,</l>
+                     <l>Craft and Deceit it ſignifies, moſt ſay,</l>
+                     <l>And if at Tennis you do toſs a Ball,</l>
+                     <l>Your Wealth with Travel great acquire you ſhall.</l>
+                  </lg>
+                  <lg n="9">
+                     <head>
+                        <hi>9.</hi> On Seeing of Hair.</head>
+                     <l>To Dream of ſeeing Hair, ſome ſay 'twill be</l>
+                     <l>The ſight of Men you are not wont to ſee:</l>
+                     <pb n="5" facs="tcp:38245:11"/>
+                     <l>Hair that is white doth ſhew then friends they are,</l>
+                     <l>Red, Envious perſons, Enemies, black hair.</l>
+                  </lg>
+                  <lg n="10">
+                     <head>
+                        <hi>10.</hi> On Bees.</head>
+                     <l>To Dream that Bees do fly about thine ears,</l>
+                     <l>Denotes that many Enemies appears.</l>
+                     <l>But if thou beat them off without a ſting,</l>
+                     <l>Then be couragious and fear nothing.</l>
+                  </lg>
+                  <lg n="11">
+                     <head>
+                        <hi>11.</hi> On the Apparitions of Saints.</head>
+                     <l>To Dream of Saints is an Auſpicious Dream;</l>
+                     <l>Beginnings of good Fortune it doth mean.</l>
+                  </lg>
+                  <lg n="12">
+                     <head>
+                        <hi>12.</hi> On Burials and Funerals.</head>
+                     <l>To Dream of Funerals of friends doth ſhew</l>
+                     <l>Eſtate or Riches from Friends ſhall accrew</l>
+                     <l>To thee; or elſe that thou ſhalt Wed a Wife</l>
+                     <l>With ſuch a Fortune ſhall make glad thy life.</l>
+                  </lg>
+                  <lg n="13">
+                     <head>
+                        <hi>13.</hi> On a Catt.</head>
+                     <l>If any one do Dream he fights a Catt,</l>
+                     <l>The taking of a Thief is meant by that;</l>
+                     <l>But if the Cat do bite or ſcratch his face,</l>
+                     <l>Then Sickneſs he ſhall have, or ſome diſgrace.</l>
+                  </lg>
+                  <pb n="6" facs="tcp:38245:12"/>
+                  <lg n="14">
+                     <head>
+                        <hi>14.</hi> On God.</head>
+                     <l>To Dream one prays to God, and on him calls,</l>
+                     <l>Good things by ſuch Dreams very often falls.</l>
+                     <l>But him to ſee, or ſpeak with him is ill,</l>
+                     <l>But to receive pure Gifts from him does well;</l>
+                     <l>And ſhews great Health to thoſe that ſhall Dream ſo,</l>
+                     <l>But impure things, Diſeaſes ſhew, and Woe.</l>
+                  </lg>
+                  <lg n="15">
+                     <head>
+                        <hi>15.</hi> On Chriſt.</head>
+                     <l>To Dream you Chriſt adore, it doth Joy ſhew,</l>
+                     <l>T<gap reason="illegible" resp="#UOM" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>, or hear him ſpeak, is good alſo.</l>
+                  </lg>
+                  <lg n="16">
+                     <head>
+                        <hi>16.</hi> On Angels.</head>
+                     <l>To Dream you Angels ſee, is Happineſs,</l>
+                     <l>But thinking you are one, is greater Bliſs.</l>
+                     <l>But to ſpeak with them, or on them call,</l>
+                     <l>Doth evil ſhew, and no good thing at all:</l>
+                     <l>But if in Secret they ſeem to Declare</l>
+                     <l>Something unknown to thee that's very rare,</l>
+                     <l>And which thou doſt not underſtand or know,</l>
+                     <l>Acquaintance with ſome King or Prince doth ſhew.</l>
+                  </lg>
+                  <pb n="7" facs="tcp:38245:12"/>
+                  <lg n="17">
+                     <head>
+                        <hi>17.</hi> On the Face.</head>
+                     <l>To ſee a Meagre pale Face in thy Dream,</l>
+                     <l>Annoyance, Poverty and Dearth doth mean:</l>
+                     <l>But if a ſmiling freſh face thou do ſee,</l>
+                     <l>It is a ſign of Friendſhip unto thee.</l>
+                  </lg>
+                  <lg n="18">
+                     <head>
+                        <hi>18.</hi> On the Privities.</head>
+                     <l>To Dream thoſe parts are Vigorous and well,</l>
+                     <l>Proſperity of Friends it then doth tell:</l>
+                     <l>With firm ſecurity of thy Eſtate,</l>
+                     <l>And augmentation of Honour great.</l>
+                     <l>But if thy Privities ſeem leſs to grow,</l>
+                     <l>Such Dream doth Infamy and Shame then ſhew.</l>
+                     <l>But if bigger, and ſtronger, they appear,</l>
+                     <l>Male Children thou'l beget; Live long, ne'r fear,</l>
+                     <l>And if that part cut oft, do ſeem to be,</l>
+                     <l>Death of thy ſelf, or Son it ſhews to thee.</l>
+                  </lg>
+                  <lg n="19">
+                     <head>
+                        <hi>19.</hi> On biting ones Nails.</head>
+                     <l>He who doth Dream that he doth bite his Nails</l>
+                     <l>Wrangling it ſignifies, and bitter Rails.</l>
+                  </lg>
+                  <pb n="8" facs="tcp:38245:13"/>
+                  <lg n="20">
+                     <head>
+                        <hi>20.</hi> On Riding in Coaches.</head>
+                     <l>To Dream thou in a Coach doſt Ride with eaſe,</l>
+                     <l>And that it doth thy Fancy highly pleaſe:</l>
+                     <l>Doth often ſmell of Pride, and that thou doſt</l>
+                     <l>Follow vain Idle things, unto thy Coſt.</l>
+                  </lg>
+                  <lg n="21">
+                     <head>
+                        <hi>21.</hi> On Places of Execution.</head>
+                     <l>To Dream of heavy diſmal places, where</l>
+                     <l>Some ready to be Executed are:</l>
+                     <l>Denotes that ſome will ſhortly come to you</l>
+                     <l>And for Relief in their great need will ſue.</l>
+                  </lg>
+                  <lg n="22">
+                     <head>
+                        <hi>22.</hi> On Heaven.</head>
+                     <l>To Dream you ſee the Sky ſerene and clear,</l>
+                     <l>Profit and Gladneſs ſhortly will appear</l>
+                     <l>A Cloudy Sky ſhews ſadneſs, Red Sky Wars,</l>
+                     <l>A Bloody Sky Diſeaſes ſhews, and Scars:</l>
+                     <l>The falling Sky denoteth Guilt, and Crime,</l>
+                     <l>But the aſcending Skye, Honour ſublime.</l>
+                     <l>Some extraordinary thing is meant,</l>
+                     <l>When as thou thinkſt Fire from Heaven is ſent,</l>
+                     <l>A King or Prince that often Dreameth ſo,</l>
+                     <l>Wars in his Country there will be and Woe.</l>
+                  </lg>
+                  <pb n="9" facs="tcp:38245:13"/>
+                  <lg n="23">
+                     <head>
+                        <hi>23.</hi> On the Sun.</head>
+                     <l>To Dream the Sun you ſee ſhining full bright,</l>
+                     <l>A mind well pleaſed ſhews, full of Delight.</l>
+                     <l>But if the Sun from Heaven do ſeem to fall,</l>
+                     <l>Death to ſome Prince or Emperor it ſhall</l>
+                     <l>Denote, The troubled Sun to a Prince ſhews</l>
+                     <l>Some Danger: Sun and Moon conjoyn'd ill News;</l>
+                     <l>if many Suns do ſeem for to appear,</l>
+                     <l>Denotes a Univerſal Joy each where:</l>
+                     <l>To ſee the Sun, Moon, Stars all clear and pure,</l>
+                     <l>Demonſtrates good and Health of Body ſure,</l>
+                     <l>The Sun and Moon greater than uſually,</l>
+                     <l>Increaſe of Honour it doth ſignifie.</l>
+                  </lg>
+                  <lg n="24">
+                     <head>
+                        <hi>24.</hi> On the Moon.</head>
+                     <l>To Dream that many Moons at once you ſee,</l>
+                     <l>Some extraordinary News will be,</l>
+                     <l>Bright Moon Advantage ſhews, the Bloody loſs,</l>
+                     <l>Falling out of Heaven to ſome a Croſs:</l>
+                     <l>As Death of ſome Princeſs, Dutcheſs or Queen,</l>
+                     <l>Or ſome Illuſtrious Lady will be ſeen.</l>
+                     <l>If Purple coloured you ſee the Moon,</l>
+                     <l>Increaſe and Profit then is thereby ſhew'n.</l>
+                  </lg>
+                  <pb n="10" facs="tcp:38245:14"/>
+                  <lg n="25">
+                     <head>
+                        <hi>25.</hi> On the Stars.</head>
+                     <l>To Dream you ſee the Stars in Order fine:</l>
+                     <l>Great Joy and Gladneſs hence you may Divine.</l>
+                     <l>But if confuſed, out of their Stations,</l>
+                     <l>Shews Sickneſs, Seditions, Perturbations:</l>
+                     <l>Tumults, Aſſemblies and Wicked Factions,</l>
+                     <l>With Brawlings, Diſcords and bad Actions.</l>
+                     <l>If at thy Feet, Sun, Moon and Stars do fall,</l>
+                     <l>It ſhews to Honour mounted be thou ſhall.</l>
+                  </lg>
+                  <lg n="26">
+                     <head>
+                        <hi>26.</hi> On the Fingers.</head>
+                     <l>Who Dreams upon his Fingers he hath Gold Rings</l>
+                     <l>Good fortune's ſignified by ſuch things.</l>
+                  </lg>
+                  <lg n="27">
+                     <head>
+                        <hi>27.</hi> On the Feet.</head>
+                     <l>Who Dreams his Feet ſmell rank and Dirty are,</l>
+                     <l>Let ſuch of Tribulation beware:</l>
+                     <l>And if they ſeem to be cut off, then know,</l>
+                     <l>That pain to thee and Damage it doth ſhew.</l>
+                  </lg>
+                  <lg n="28">
+                     <head>
+                        <hi>28.</hi> On Shiting.</head>
+                     <l>To Dream that in the Fields abroad you Shite,</l>
+                     <l>Signifies Joy, Health, Profit and Delight.</l>
+                  </lg>
+                  <pb n="11" facs="tcp:38245:14"/>
+                  <lg n="29">
+                     <head>
+                        <hi>29.</hi> On Cracking Nuts and Roaſting Apples.</head>
+                     <l>To Dream of cracking Nuts by a good fire,</l>
+                     <l>Doth ſhew that Idleneſs is thy deſire:</l>
+                     <l>And that thou loveſt well to take thine eaſe,</l>
+                     <l>Though ne're ſo many thou thereby diſpleaſe.</l>
+                  </lg>
+                  <lg n="30">
+                     <head>
+                        <hi>30.</hi> On evil Spirits and Apparitions:</head>
+                     <l>To Dream ill Spirits Letts thy doing good,</l>
+                     <l>Some ſeemingly Devout is underſtood</l>
+                     <l>Shall hinder and moleſt thy good intent;</l>
+                     <l>Some Hypocrite or Prieſt is ſometimes meant:</l>
+                     <l>If hideous Phyſiognomies thou ſee,</l>
+                     <l>Things more than Vulgar ſhall Revealed be.</l>
+                  </lg>
+                  <lg n="31">
+                     <head>
+                        <hi>31.</hi> On the Ecclipſe of Sun and Moon.</head>
+                     <l>To Dream Ecclipſe thou doſt ſee o'th Sun</l>
+                     <l>Or Moon, thy Parents Death ere long will come,</l>
+                     <l>The Sun, the Father ſignifies, 'tis ſaid,</l>
+                     <l>And if the Moon, of Mother be afraid.</l>
+                  </lg>
+                  <lg n="32">
+                     <head>
+                        <hi>32.</hi> On Piſſing.</head>
+                     <l>To Dream that you do Piſs againſt the Wall,</l>
+                     <l>It ſhews help in your Buſineſs have you ſhall.</l>
+                  </lg>
+                  <pb n="12" facs="tcp:38245:15"/>
+                  <lg n="33">
+                     <head>
+                        <hi>33.</hi> On Apes and Munkeys.</head>
+                     <l>To Dream of Apes and Monkies ſignifies</l>
+                     <l>Malicious, ſtrange and Secret Enemies.</l>
+                  </lg>
+                  <lg n="34">
+                     <head>
+                        <hi>34.</hi> On Writing Letters.</head>
+                     <l>If Letters to your Friends you Dream you Write,</l>
+                     <l>Or that they Letters unto you Indite:</l>
+                     <l>'Tis ſaid moſt Authors think it always ſhews</l>
+                     <l>Unto the Dreamer of the ſame good News.</l>
+                  </lg>
+                  <lg n="35">
+                     <head>
+                        <hi>35.</hi> On a Ladder.</head>
+                     <l>To Dream that you a Ladder do aſcend,</l>
+                     <l>Such Dream to you doth Honor recommend.</l>
+                     <l>But if the Ladder you deſcend then know</l>
+                     <l>Such Dream doth loſs and damage to thee ſhew.</l>
+                  </lg>
+                  <lg n="36">
+                     <head>
+                        <hi>36.</hi> On Oxen.</head>
+                     <l>If in thy Dream do Oxen fat appear,</l>
+                     <l>It then doth ſignifie a fruitful year,</l>
+                     <l>But if thou Oxen poor and lean behold,</l>
+                     <l>Scarcity and Famine it doth unfold,</l>
+                  </lg>
+                  <pb n="13" facs="tcp:38245:15"/>
+                  <lg n="37">
+                     <head>
+                        <hi>37.</hi> On sticking fast in the Mire or Bryers.</head>
+                     <l>To dream thou ſtickeſt faſt in Dirt or Mire,</l>
+                     <l>Or that thou faſt art held by thorns or bryer:</l>
+                     <l>To thee it ſhews Cares and Troubles many,</l>
+                     <l>And that thou hardly ſhall get out of any.</l>
+                  </lg>
+                  <lg n="38">
+                     <head>
+                        <hi>38.</hi> On the Church and holy duty.</head>
+                     <l>To dream o'th Church, and ſee the Sacrament:</l>
+                     <l>Is a good Dream, and Godlineſs is meant.</l>
+                     <l>Confuſed ſinging that none underſtand,</l>
+                     <l>Religious Diſputes it ſhews in hand,</l>
+                     <l>To be all Naked in the Church to dream,</l>
+                     <l>Great harm unto the Sanguine it doth mean,</l>
+                     <l>The Myſteries of Religion to ſee</l>
+                     <l>Contemp'd, a bad and evil Dream will be</l>
+                  </lg>
+                  <lg n="39">
+                     <head>
+                        <hi>39.</hi> On Bells Ringing.</head>
+                     <l>To Dream that you do hear the Bells to ring,</l>
+                     <l>Unto the Sanguine it good News doth bring,</l>
+                     <l>For you to pull or draw a Rope o'th Bell,</l>
+                     <l>And ſee a ſpirit hindring it to knell.</l>
+                     <l>If to a Parſon, ſuch ſights are afforded,</l>
+                     <l>He in his Function ſhall be diſturbed.</l>
+                  </lg>
+                  <pb n="14" facs="tcp:38245:16"/>
+                  <lg n="40">
+                     <head>
+                        <hi>40.</hi> On a Beard.</head>
+                     <l>To Dream thy Beard's ſhav'd, to'th Melancholy</l>
+                     <l>Is good, but the Cholerick Folly;</l>
+                     <l>Indifferent to'th Flegmatick we find,</l>
+                     <l>To the ſanguine Affliction of Mind:</l>
+                     <l>If a great ugly Beard thou ſeem to have,</l>
+                     <l>It doth ſhew carefullneſs, and apt to ſave.</l>
+                     <l>To the Melancholly and Flegmatick,</l>
+                     <l>Peril and anger: ſo to the Cholerick.</l>
+                  </lg>
+                  <lg n="41">
+                     <head>
+                        <hi>41.</hi> On a Swan.</head>
+                     <l>He who doth Dream that he doth ſee a Swan,</l>
+                     <l>Joy it doth ſignify unto that man,</l>
+                     <l>With perfect Health and ſtrength, but if it ſings;</l>
+                     <l>Death, to the Dreamer it foretells and brings.</l>
+                  </lg>
+                  <lg n="42">
+                     <head>
+                        <hi>42.</hi> On Pidgeons.</head>
+                     <l>When you do Pigeons ſee, the ſign is good,</l>
+                     <l>Content at home, by ſuch Dream's underſtood,</l>
+                     <l>And great delight to thee it will afford,</l>
+                     <l>With good ſucceſs in thy Affairs abroad.</l>
+                  </lg>
+                  <pb n="15" facs="tcp:38245:16"/>
+                  <lg n="43">
+                     <head>
+                        <hi>43.</hi> On Deep Pits and Wells.</head>
+                     <l>To Dream into a pit, thou ſeeſt a Friend</l>
+                     <l>To fall, ſuch perſon then is near his end:</l>
+                     <l>If parent, Uncle, Aunt, or child it be,</l>
+                     <l>Expect the Death of ſuch that falls to ſee.</l>
+                  </lg>
+                  <lg n="44">
+                     <head>
+                        <hi>44.</hi> On Teeth.</head>
+                     <l>To Dream thy Teeth are drawn it then portends,</l>
+                     <l>Unto the ſanguine perſon, Death of Friends.</l>
+                     <l>But to the Flegmatick a ſign 'tis ſure,</l>
+                     <l>That ſhortly he the Tooth-ach ſhall endure.</l>
+                     <l>To'th Cholerick and Melancholy's meant,</l>
+                     <l>That it to them doth ſhew indifferent.</l>
+                     <l>To Dream of falling out of Teeth, then know,</l>
+                     <l>The ſame in all things, as above doth ſhow.</l>
+                  </lg>
+                  <lg n="45">
+                     <head>
+                        <hi>45.</hi> On Serpents and Toads.</head>
+                     <l>To Dream that Toads and Serpents you deſtroy,</l>
+                     <l>Unto the ſanguine doth ſhew Victory,</l>
+                     <l>Over his Foes; but it doth often bring</l>
+                     <l>To the Melancholy, the quite contrary thing.</l>
+                     <l>Trouble to'th Flegmatick by it is meant,</l>
+                     <l>The Cholerick to kill or miſchief's bent:</l>
+                     <pb n="16" facs="tcp:38245:17"/>
+                     <l>Dreams of hearing Serpents is very good,</l>
+                     <l>For Victory by ſuch is underſtood.</l>
+                     <l>But if a Serpent out o'th earth be brought,</l>
+                     <l>Approaching for to harm thee, but does nought,</l>
+                     <l>Some <hi>Jezebel</hi> doth thirſt to do thee ill,</l>
+                     <l>But ſhall be diſappointed of her will.</l>
+                  </lg>
+                  <lg n="46">
+                     <head>
+                        <hi>46.</hi> On Grapes.</head>
+                     <l>Who Dream ripe Grapes they eat, let ſuch then know,</l>
+                     <l>That chearfulneſs and profit it doth ſhew.</l>
+                  </lg>
+                  <lg n="47">
+                     <head>
+                        <hi>47.</hi> On Peaſe.</head>
+                     <l>To Dream of eating Peaſe well boyl'd be ſure,</l>
+                     <l>Succeſs in thy affairs it doth procure.</l>
+                  </lg>
+                  <lg n="48">
+                     <head>
+                        <hi>48.</hi> On Beans.</head>
+                     <l>Eating of Beans in Dreams, preſage alway,</l>
+                     <l>Diſſention and trouble the learned ſay.</l>
+                  </lg>
+                  <lg n="49">
+                     <head>
+                        <hi>49.</hi> On being in a fine Hall.</head>
+                     <l>To Dream of being in an Hall that's hung,</l>
+                     <l>With Tapeſtry and Arras all along:</l>
+                     <l>And there to ſee and ſpeak unto the King,</l>
+                     <l>It is a good Dream, a very excellent thing.</l>
+                     <pb n="17" facs="tcp:38245:17"/>
+                     <l>To be in a fair place well furniſhed,</l>
+                     <l>With pious Images, and thee to lead,</l>
+                     <l>An Angel is there ſtanding in the place:</l>
+                     <l>Denoteth pious thoughts and full of grace.</l>
+                     <l>But ſeeing ugly ſights to fright thee thence,</l>
+                     <l>It then betokens Treaſon to thy Prince.</l>
+                  </lg>
+                  <lg n="50">
+                     <head>
+                        <hi>50.</hi> On blowing up the Fire.</head>
+                     <l>To Dream of ſtirring up and blowing fire,</l>
+                     <l>Denotes the ſtirring up of wrath and Ire;</l>
+                     <l>And that old quarrels, thou ſhalt fall among,</l>
+                     <l>Which have been dormant and forgotten long.</l>
+                  </lg>
+                  <lg n="51">
+                     <head>
+                        <hi>51.</hi> On Crows croaking.</head>
+                     <l>To Dream that Crows and other birds of prey</l>
+                     <l>Are flying, ſhews ill luck, the moſt do ſay:</l>
+                     <l>And if you hear them croak umpleaſantly,</l>
+                     <l>Its an ill Omen and bad Dreams they be.</l>
+                     <l>If Crows upon thy Childs head ſeems to fly,</l>
+                     <l>Such Child then fear will have bad Deſtiny.</l>
+                  </lg>
+                  <pb n="18" facs="tcp:38245:18"/>
+                  <lg n="52">
+                     <head>
+                        <hi>52.</hi> On Bleeding.</head>
+                     <l>To Dream of Bleeding at the Noſe, ſome ſay,</l>
+                     <l>Is loſs of Goods and Riches and Decay,</l>
+                     <l>To the Flegmatick and Melancholly;</l>
+                     <l>To th' Chollerick and Sanguine good and Jolly.</l>
+                  </lg>
+                  <lg n="53">
+                     <head>
+                        <hi>53.</hi> On Drinking.</head>
+                     <l>To Dream you Drink when you are very dry,</l>
+                     <l>Such Dream doth Sickneſs ſhew aſſuredly:</l>
+                     <l>If near the break of day ſuch thing betide,</l>
+                     <l>The party Sanguine lying on left ſide.</l>
+                  </lg>
+                  <lg n="54">
+                     <head>
+                        <hi>54.</hi> On Dandling of Children.</head>
+                     <l>To Dream a Child thou dandles on thy Knee,</l>
+                     <l>Something of Pleaſure it denotes to thee,</l>
+                     <l>For quietneſs is thereby underſtood,</l>
+                     <l>And thou wilt find all things in a good Mood.</l>
+                  </lg>
+                  <lg n="55">
+                     <head>
+                        <hi>55.</hi> On Dogs or Wolves Barking.</head>
+                     <l>To Dream that Dogs do bawl and bark at you,</l>
+                     <l>And that they bite and likewiſe do purſue:</l>
+                     <pb n="19" facs="tcp:38245:18"/>
+                     <l>Shews that thy Enemies ſhall thee Command,</l>
+                     <l>And over thee ſhall have prevailing hand:</l>
+                     <l>But if the Dogs thou fight and overcome,</l>
+                     <l>Then ſhall thy Enemies have the like Doom,</l>
+                     <l>And ſo of Wolves and other Creatures fell,</l>
+                     <l>If thou ſuch Creatures fight and them repell.</l>
+                  </lg>
+                  <lg n="56">
+                     <head>
+                        <hi>56.</hi> On an High way.</head>
+                     <l>To Dream you'r in a fair and pleaſant way,</l>
+                     <l>Proſperity and Joy doth ſhew, moſt ſay.</l>
+                     <l>But if the way be crooked, foul and ill,</l>
+                     <l>Croſſes and ſadneſs it doth then foretell.</l>
+                  </lg>
+                  <lg n="57">
+                     <head>
+                        <hi>57.</hi> On Navigation.</head>
+                     <l>To Dream that you are in a Boat or Ship</l>
+                     <l>Upon the Sea, and like to be oreſet</l>
+                     <l>Or caſt away, ſuch Dream doth ſignifie</l>
+                     <l>Loſs and Danger to Men at Liberty.</l>
+                     <l>But if a Priſoner ſuch Viſion ſee,</l>
+                     <l>It ſhews ere long that he ſhall be ſet free.</l>
+                  </lg>
+                  <lg n="58">
+                     <head>
+                        <hi>58.</hi> On a Hare or Hart.</head>
+                     <l>Running of Hare or Hart in Dreams to ſee,</l>
+                     <l>Shews great Wealth gain'd by pains and Subtilty.</l>
+                  </lg>
+                  <pb n="20" facs="tcp:38245:19"/>
+                  <lg n="59">
+                     <head>
+                        <hi>59.</hi> On gathering of Fruit.</head>
+                     <l>To Dream of gathering Fruit from off the Trees,</l>
+                     <l>Which there in great abundance hangs thou ſees,</l>
+                     <l>Of ſuch a Dream thou mayſt be glad and fain,</l>
+                     <l>For it denoteth Profit great and Gain:</l>
+                     <l>But if thy Teeth are ſet on edge by ſuch,</l>
+                     <l>Its a bad Sign, and thou ſhalt gain not much.</l>
+                  </lg>
+                  <lg n="60">
+                     <head>
+                        <hi>60.</hi> On an handſome Woman.</head>
+                     <l>To Dream thou makes much of a pretty Maid,</l>
+                     <l>But to come nigh her thou art ſore afraid:</l>
+                     <l>Is very good, and doth then repreſent</l>
+                     <l>Moſt vertuous Actions and a good Intent.</l>
+                  </lg>
+                  <lg n="61">
+                     <head>
+                        <hi>61.</hi> On Looking thy ſelf in a Glaſs.</head>
+                     <l>To Dream within a Glaſs thou doſt behold</l>
+                     <l>Thy Face ſhews great Love of thy ſelf, tis told;</l>
+                     <l>And if thy ſelf thou Trim and do pin there,</l>
+                     <l>It ſhews thou thinkſt that few with thee compare.</l>
+                  </lg>
+                  <lg n="62">
+                     <head>
+                        <hi>62.</hi> On Flying in the Air.</head>
+                     <l>To Dream thou flies and from the earth art rais'd,</l>
+                     <l>According to ſuch height thou ſhalt be prais'd,</l>
+                     <pb n="21" facs="tcp:38245:19"/>
+                     <l>If very high, then much praiſe thou ſhalt have,</l>
+                     <l>And if but low then leſs thou ſhalt receive.</l>
+                  </lg>
+                  <lg n="63">
+                     <head>
+                        <hi>63.</hi> On Souldiers.</head>
+                     <l>To Dream that Souldiers are ſeen by you,</l>
+                     <l>Unto the Sanguine often happens true,</l>
+                     <l>But to the Flegmatick it gives warning,</l>
+                     <l>He may expect diſquiet the next morning.</l>
+                  </lg>
+                  <lg n="64">
+                     <head>
+                        <hi>64.</hi> On Gifts and Preſents.</head>
+                     <l>To dream you give a Ring or ſome ſuch thing,</l>
+                     <l>Unto the Sanguine often loſs doth bring:</l>
+                     <l>But to the Chollerick is profit meant,</l>
+                     <l>Flegmatick and Melancholy indifferent.</l>
+                     <l>But to receive a Gift from King or Prince,</l>
+                     <l>There's matter of great Joy and Gladneſs thence.</l>
+                  </lg>
+                  <lg n="65">
+                     <head>
+                        <hi>65.</hi> On Running.</head>
+                     <l>Who Dreams he from another runs and flyes</l>
+                     <l>For fear, Security it ſignifies;</l>
+                     <l>And when after your Foe you ſeem to trot</l>
+                     <l>Then Victory and Gain it doth denote.</l>
+                     <l>Peoples Running one againſt another,</l>
+                     <l>Wrangling and Diſorder ſhews together.</l>
+                  </lg>
+                  <pb n="18" facs="tcp:38245:20"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:38245:20"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="18" facs="tcp:38245:21"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:38245:21"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="20" facs="tcp:38245:22"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:38245:22"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="22" facs="tcp:38245:23"/>
+                  <lg n="66">
+                     <head>
+                        <hi>66.</hi> On Birds Singing.</head>
+                     <l>When in Your Dream you think you hear Birds ſing,</l>
+                     <l>Joy and Delight is ſhewed by ſuch thing.</l>
+                  </lg>
+                  <lg n="67">
+                     <head>
+                        <hi>67.</hi> On the Grave.</head>
+                     <l>Who dreams he's dead, and put into his Grave,</l>
+                     <l>It's ſaid by ſome, that he Eſtate ſhall have,</l>
+                     <l>Greater or leſſer as the mould is laid,</l>
+                     <l>In quantity on him, as it is ſaid.</l>
+                  </lg>
+                  <lg n="68">
+                     <head>
+                        <hi>68.</hi> On a bunch of keys.</head>
+                     <l>To dream a goodly bunch of keys you have,</l>
+                     <l>And give them unto thoſe that them do crave,</l>
+                     <l>Great good to Captives poor it doth imply,</l>
+                     <l>For ſhortly they ſhall gain their liberty.</l>
+                  </lg>
+                  <lg n="69">
+                     <head>
+                        <hi>69.</hi> On Looſing a Wedding Ring.</head>
+                     <l>To dream thy Wedding ring is loſt doth ſhew</l>
+                     <l>Thy love unto thy husband's loſt I trow;</l>
+                     <l>But if it chance thou find the ſame again,</l>
+                     <l>It ſhews ſome little love thou doſt retain.</l>
+                  </lg>
+                  <pb n="23" facs="tcp:38245:23"/>
+                  <lg n="70">
+                     <head>
+                        <hi>70.</hi> On an Old Woman Wooing thee.</head>
+                     <l>To Dream thou ſees a Woman Old thee Court,</l>
+                     <l>And that thou doeſt with her joyn in Conſort,</l>
+                     <l>Shews ſome affair purſued with good luck,</l>
+                     <l>Yet for all that the World at it ſhall mock.</l>
+                  </lg>
+                  <lg n="71">
+                     <head>
+                        <hi>71.</hi> On Vermin and Lice.</head>
+                     <l>To Dream thou Louſy art, and troubled much</l>
+                     <l>With killing and deſtroying them, To ſuch</l>
+                     <l>That ſo ſhall Dream, They not to repine,</l>
+                     <l>Of Money and great Riches its a Sign.</l>
+                  </lg>
+                  <lg n="72">
+                     <head>
+                        <hi>72.</hi> On Dung, Ordure or Muck.</head>
+                     <l>To dream of Ordure, ſtinking Dung or Muck</l>
+                     <l>It's ſaid by ſome, it often ſhews good Luck,</l>
+                     <l>But this I know and ſpeak without a Jeſt,</l>
+                     <l>Invited thou ſhalt be unto ſome Feaſt.</l>
+                  </lg>
+                  <lg n="73">
+                     <head>
+                        <hi>73.</hi> On Looſing thy Shooes.</head>
+                     <l>To Dream thy ſhooes are loſt and Feet are bare,</l>
+                     <l>Loſs to the Sanguine and Reproaches are.</l>
+                     <l>And more eſpecially if this Dream come</l>
+                     <l>To thee, in the firſt days of the New Moon.</l>
+                  </lg>
+                  <pb n="24" facs="tcp:38245:24"/>
+                  <lg n="74">
+                     <head>
+                        <hi>74.</hi> On Bulls.</head>
+                     <l>Who Dreams he by a Bull is hurt or goard,</l>
+                     <l>He ſhall have harm by ſome great manor Lord.</l>
+                  </lg>
+                  <lg n="75">
+                     <head>
+                        <hi>75.</hi> On Cowcombers.</head>
+                     <l>To dream of Cowcombers it doth denote</l>
+                     <l>Unto the Dreamers of the ſame, vain hope.</l>
+                  </lg>
+                  <lg n="76">
+                     <head>
+                        <hi>76.</hi> On Fire.</head>
+                     <l>If in thy Dream a ſparkling Fire thou ſee,</l>
+                     <l>Expect Debates, or ſome bad News to thee:</l>
+                     <l>Eſpecially when as it ſmoaketh much,</l>
+                     <l>For Anger and great Brawls proceed from ſuch.</l>
+                  </lg>
+                  <lg n="77">
+                     <head>
+                        <hi>77.</hi> On Walking in a Garden.</head>
+                     <l>To Dream of Walking in a Garden fine</l>
+                     <l>Thy Mind to Arrogancy doth incline.</l>
+                     <l>And if that here and there a Flower thou get,</l>
+                     <l>It ſhews thou think'ſt thy ſelf a dainty bit.</l>
+                  </lg>
+                  <pb n="25" facs="tcp:38245:24"/>
+                  <lg n="78">
+                     <head>
+                        <hi>78.</hi> On Eggs.</head>
+                     <l>To Dream of Egs it is a Sign full bad,</l>
+                     <l>And ſhows that many Quarrels Shall be had</l>
+                     <l>'Twixt thee and others, alſo it afords</l>
+                     <l>A Sign of many Idle, Fooliſh Words.</l>
+                  </lg>
+                  <lg n="79">
+                     <head>
+                        <hi>79.</hi> On a fierce Lyon.</head>
+                     <l>To Dream thou ſees a Lion ready ſtand</l>
+                     <l>To fight with what ſoever comes in hand.</l>
+                     <l>The Lion which thou ſees thus reſolute,</l>
+                     <l>Denotes a man that's ready to diſpute.</l>
+                  </lg>
+                  <lg n="80">
+                     <head>
+                        <hi>80.</hi> On fat or lean Cattel.</head>
+                     <l>To dream of Oxen either Fat or Lean,</l>
+                     <l>The laſt misfortune ſhows, the other gain:</l>
+                     <l>Somtimes the fruitfulneſs of that ſame year,</l>
+                     <l>Does by the fatted Oxen plain appear,</l>
+                     <l>And by the lean ones, Scarcity alſo</l>
+                     <l>Of the enſuing year you Judg and know.</l>
+                  </lg>
+                  <lg n="81">
+                     <head>
+                        <hi>81.</hi> On Rare Muſick.</head>
+                     <l>To dream that thou Melodious Muſick hears,</l>
+                     <l>Which does Harmoniouſly ſound in thine Ears;</l>
+                     <pb n="26" facs="tcp:38245:25"/>
+                     <l>It ſhews ſome thing Shall thee befall, which thou</l>
+                     <l>Takes great delight in for to hear and know.</l>
+                  </lg>
+                  <lg n="82">
+                     <head>
+                        <hi>82.</hi> On Thunder and Lightning.</head>
+                     <l>To Dream of fearful Lightning and Thunder,</l>
+                     <l>Of Jars and Quarrels then think no wonder:</l>
+                     <l>For it a token is of much debate,</l>
+                     <l>Fierce hot contentions and thundring hate.</l>
+                  </lg>
+                  <lg n="83">
+                     <head>
+                        <hi>83.</hi> On a Mule carrying Books.</head>
+                     <l>To dream a mule Books on his back doth bear,</l>
+                     <l>And thoſe that ask them, mocked thou doſt hear,</l>
+                     <l>It is a Sign that in the morning next</l>
+                     <l>In thy Devotion thou ſhalt be perplext.</l>
+                  </lg>
+                  <lg n="84">
+                     <head>
+                        <hi>84.</hi> On a Candle.</head>
+                     <l>When Candle, or Torch thou Dreams thou ſees</l>
+                     <l>Extinguiſhed or darkned by degrees;</l>
+                     <l>Then Sadneſs, ſickneſs or Poverty expect;</l>
+                     <l>Thy Dream doth ſignify to that effect.</l>
+                  </lg>
+                  <lg n="85">
+                     <head>
+                        <hi>85.</hi> On being in a Tavern.</head>
+                     <l>To Dream that thou in a great Tavern art,</l>
+                     <l>It ſhews thou ſhortly to the Church ſhall ſtart,</l>
+                     <pb n="27" facs="tcp:38245:25"/>
+                     <l>And if ſome pleaſant Wine thou drinkeſt there</l>
+                     <l>It ſhews delightſom Doctrine thou ſhalt hear,</l>
+                     <l>But if tho'rt Drunk, or drinkeſt not a drop,</l>
+                     <l>Nought at the Church to pleaſe thee thou can hope.</l>
+                  </lg>
+                  <lg n="86">
+                     <head>
+                        <hi>86.</hi> On dying Stuffs.</head>
+                     <l>Who dreams all ſorts of Stuffs that he doth Dye.</l>
+                     <l>Such Dream denoteth profit and great Ioy.</l>
+                  </lg>
+                  <lg n="87">
+                     <head>
+                        <hi>87.</hi> On eating Herbs in a Sallet.</head>
+                     <l>Dreams of eating green Herbs in a Sallet,</l>
+                     <l>Shews Some Novelty's will pleaſe thy Pallet,</l>
+                     <l>Which thou in Learning ſhall then ſhortly find</l>
+                     <l>Such as before thou ne'r had in thy mind.</l>
+                  </lg>
+                  <lg n="88">
+                     <head>
+                        <hi>88.</hi> On Knives, Daggers or Swords.</head>
+                     <l>To Dream of Daggers, Knives or naked Swords,</l>
+                     <l>Doth ſignify ſome hot conteſt in Words:</l>
+                     <l>But when the heat is paſt, then it is plain</l>
+                     <l>All ſhall be well, and ſo good friends again.</l>
+                  </lg>
+                  <lg n="89">
+                     <head>
+                        <hi>89.</hi> On Graſhoppers.</head>
+                     <l>To dream of Graſhoppers, it doth foretel</l>
+                     <l>Of ſuch as round the Country walk and Steal.</l>
+                  </lg>
+                  <pb n="28" facs="tcp:38245:26"/>
+                  <lg n="90">
+                     <head>
+                        <hi>90.</hi> On Thieves breaking ones Houſe.</head>
+                     <l>To dream that Thieves do break thine Houſe and Steal</l>
+                     <l>Some miſchief unto thee it doth reveal:</l>
+                     <l>But if they're ſcar'd away and nothing find,</l>
+                     <l>Thy Enemyes ſhall not obtain their mind.</l>
+                     <l>Though many ways to hurt thee they have ſought,</l>
+                     <l>Yet their deſigns to nothing ſhall be brought.</l>
+                  </lg>
+                  <lg n="91">
+                     <head>
+                        <hi>91.</hi> On Iron.</head>
+                     <l>Who dreams in Iron he doth drive a Trade,</l>
+                     <l>Loſs and misfortune ſhews, as it is ſaid.</l>
+                  </lg>
+                  <lg n="92">
+                     <head>
+                        <hi>92.</hi> On a Womans enjoying a Man.</head>
+                     <l>To dream a Man in Bed thou doſt Inioy,</l>
+                     <l>And that he doth begin to tick and Toy,</l>
+                     <l>And up he Mounts, whether thou wilt or no</l>
+                     <l>And ſo does get into thy Boggle Bee:</l>
+                     <l>Whether thou Maid or Widow art that this</l>
+                     <l>Doth dreams; Expect thou may ſhortly to kiſs</l>
+                     <l>That ſweet beloved perſon, whom thou can</l>
+                     <l>Better affect than any other Man:</l>
+                     <l>Who kindly ſhall in all things ſo comply</l>
+                     <l>Thou canſt not for thy Life his ſuit deny.</l>
+                  </lg>
+                  <pb n="29" facs="tcp:38245:26"/>
+                  <lg n="93">
+                     <head>
+                        <hi>93.</hi> On Gold.</head>
+                     <l>To dream that thou doſt give away ſome Gold,</l>
+                     <l>Doth ſome unpleaſant News to thee unfold:</l>
+                     <l>But if thou Dream, that Gold thou doſt receave,</l>
+                     <l>Auſpicious Fortune, and good Luck thou'l have.</l>
+                  </lg>
+                  <lg n="94">
+                     <head>
+                        <hi>94.</hi> On keeping Cattel.</head>
+                     <l>To Dream of keeping Beaſts, to'th Rich portends</l>
+                     <l>Diſgrace and loſs, to th' Poor it profit ſends.</l>
+                  </lg>
+                  <lg n="95">
+                     <head>
+                        <hi>95.</hi> On Fowling and Fiſhing.</head>
+                     <l>To dream thou with a Gun a Fowling goes,</l>
+                     <l>And with it ſhoots and kills ſome Game, it ſhews</l>
+                     <l>That thou ſhall by thy Calling reap ſome gain:</l>
+                     <l>And profit ſurely by it, ſhall obtain:</l>
+                     <l>Which will be as the Game which thou deſtroys:</l>
+                     <l>If many, much: If few, thou leſs injoys:</l>
+                     <l>The like of Fiſhing, as is ſaid before,</l>
+                     <l>The quantity ſhews profit leſs or more:</l>
+                     <l>For if thy Nett be full and ſeem to break,</l>
+                     <l>It ſhews thy profit ſhall be very great.</l>
+                  </lg>
+                  <pb n="30" facs="tcp:38245:27"/>
+                  <lg n="96">
+                     <head>
+                        <hi>96.</hi> On Oranges.</head>
+                     <l>Who Dreams he Oranges doth ſee or eat;</l>
+                     <l>Vexation, Wounds and Grief it ſheweth great.</l>
+                  </lg>
+                  <lg n="97">
+                     <head>
+                        <hi>97.</hi> On falling from ones Seat.</head>
+                     <l>To Dream thou from thy Seat does fall, and fain</l>
+                     <l>Would Riſe to Seat thy ſelf upon 't again,</l>
+                     <l>But cannot raiſe thy ſelf to get into it,</l>
+                     <l>What Office ſo e'er thour't in, then know it,</l>
+                     <l>Thou from the Exerciſe thereof ſhall fall,</l>
+                     <l>And from the ſame Imployment have a Call.</l>
+                  </lg>
+                  <lg n="98">
+                     <head>
+                        <hi>98.</hi> On Quails.</head>
+                     <l>To Dream of Quails, doth oft foretel bad News</l>
+                     <l>At Sea, Quarrels and ſtrifes it alſo ſhews.</l>
+                  </lg>
+                  <lg n="99">
+                     <head>
+                        <hi>99.</hi> On Hunting.</head>
+                     <l>To Dream thou goes on Hunting in the Fields,</l>
+                     <l>And that the ſame great Pleaſure to thee yields;</l>
+                     <l>Doth ſhew thou ſomthing hunts, delights thy Mind,</l>
+                     <l>And in purſuit thereof thou Joy doſt find.</l>
+                  </lg>
+                  <pb n="31" facs="tcp:38245:27"/>
+                  <lg n="100">
+                     <head>
+                        <hi>100.</hi> On Horns.</head>
+                     <l>Who Dreams Horns upon his Head are placed,</l>
+                     <l>With Rule and Grandeur he ſhall be graced.</l>
+                  </lg>
+                  <lg n="101">
+                     <head>
+                        <hi>101.</hi> On the Noſe.</head>
+                     <l>Who Dreams his Scent is loſt, and Noſe is ſtop'd,</l>
+                     <l>Shall by his Wife deceived be, and fop'd:</l>
+                     <l>For ſhe ſome Friend, or Gallant will receive,</l>
+                     <l>To her Embraces, and her Husband leave.</l>
+                  </lg>
+                  <lg n="102">
+                     <head>
+                        <hi>102.</hi> On the Ears.</head>
+                     <l>If in thy Dream thy Ears appears to be</l>
+                     <l>Like Aſſes Ears, ſhews Servitude to thee:</l>
+                     <l>But if thy Ears thou pickeſt in thy Dream,</l>
+                     <l>Love from thy Servants is meant by the ſame.</l>
+                  </lg>
+                  <lg n="103">
+                     <head>
+                        <hi>103.</hi> On a Woman in Labour.</head>
+                     <l>To Dream a Woman labours in Child-bed,</l>
+                     <l>And that ſhe brings a Child forth that is Dead:</l>
+                     <l>Or none at all: and ſo leaves off again,</l>
+                     <l>After ſhe's ſuffer'd Anguiſh great and pain:</l>
+                     <l>It ſhews the party labours much, Alas,</l>
+                     <l>For that which ſhe ſhall never bring to paſs:</l>
+                     <pb n="32" facs="tcp:38245:28"/>
+                     <l>But if that ſhe bring forth a Child alive.</l>
+                     <l>In her deſigns perhaps ſhe then may thrive:</l>
+                     <l>But e'er it come to paſs, ſhee'l have great Coyl,</l>
+                     <l>And muſt effect it with great pains and Toyl.</l>
+                  </lg>
+                  <lg n="104">
+                     <head>
+                        <hi>104.</hi> On Cutting the Throat.</head>
+                     <l>When thou doſt Dream thy Throat's cut with a Knife,</l>
+                     <l>Then ſome will Injure thee, or ſeek thy Life.</l>
+                  </lg>
+                  <lg n="105">
+                     <head>
+                        <hi>105.</hi> On being with Child.</head>
+                     <l>Who Dreams ſhe is deliver'd of a Child,</l>
+                     <l>And is not bigg, ſhe ſhall not be beguil'd,</l>
+                     <l>For ſhortly after that, ſhe will Conceive,</l>
+                     <l>And in due courſe of time a Child ſhall have.</l>
+                  </lg>
+                  <lg n="106">
+                     <head>
+                        <hi>106.</hi> On a Fox.</head>
+                     <l>If with a Fox thou Dreams, thou doſt Engage,</l>
+                     <l>A Crafty Enemie it doth preſage.</l>
+                  </lg>
+                  <lg n="107">
+                     <head>
+                        <hi>107.</hi> On going to School.</head>
+                     <l>To Dream thou go unto the School anew,</l>
+                     <l>And cannot ſay thy Leſſon right, doth ſhew,</l>
+                     <pb n="33" facs="tcp:38245:28"/>
+                     <l>That thou haſt ſome deſign then under hand,</l>
+                     <l>Which thou doſt not yet rightly underſtand.</l>
+                  </lg>
+                  <lg n="108">
+                     <head>
+                        <hi>108.</hi> On a Wolf.</head>
+                     <l>Who Dreams a Wolf him bites, and then he flies,</l>
+                     <l>Shall Wrong receive from cruel Enemies.</l>
+                  </lg>
+                  <lg n="109">
+                     <head>
+                        <hi>109.</hi> On Earthworms.</head>
+                     <l>To Dream of Earth-Worms ſome ſay ſignifies,</l>
+                     <l>Deſtroying Undermining Enemies.</l>
+                  </lg>
+                  <lg n="110">
+                     <head>
+                        <hi>110.</hi> On Froggs.</head>
+                     <l>
+                        <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f Froggs appear when thou doſt Dream, then know</l>
+                     <l>Flatterers and Bablers ſuch Dream doth ſhew.</l>
+                  </lg>
+                  <lg n="111">
+                     <head>
+                        <hi>111.</hi> On the Air.</head>
+                     <l>Dreams of Hail, Rain, Tempeſts and Thunder know</l>
+                     <l>Loſſes and Trouble to th' Rich doth ſhew:</l>
+                     <l>But to the Poorer ſort, it's no ſuch thing;</l>
+                     <l>For ſuch Dream unto them, Repoſe doth bring.</l>
+                  </lg>
+                  <pb n="34" facs="tcp:38245:29"/>
+                  <lg n="112">
+                     <head>
+                        <hi>112.</hi> On water.</head>
+                     <l>Who Dreams he ſees a Rivers Water clear,</l>
+                     <l>And calm, good things by ſuch Dream doth appear:</l>
+                     <l>But if the ſame, be troubled very much,</l>
+                     <l>Troubles and Cenſures bad are meant by ſuch.</l>
+                  </lg>
+                  <lg n="113">
+                     <head>
+                        <hi>113.</hi> On Flowers.</head>
+                     <l>He that doth Dream Poſies and Flowers he ſmels,</l>
+                     <l>When they in Seaſon are, Pleaſure foretels,</l>
+                     <l>With Joy and Conſolation: but when,</l>
+                     <l>They'r not in Seaſon, ill Luck it ſhews then.</l>
+                  </lg>
+                  <lg n="114">
+                     <head>
+                        <hi>114.</hi> On Corn.</head>
+                     <l>To Dream great Stacks of Corn you do eſpy,</l>
+                     <l>Denotes abundance, ſmall Stacks Neceſſity.</l>
+                  </lg>
+                  <lg n="115">
+                     <head>
+                        <hi>115.</hi> On Bread.</head>
+                     <l>When as the Rich doth Dream he eats white Bread</l>
+                     <l>Made of good Wheat, Profit falls on his Head:</l>
+                     <l>But to the Poor ſuch Dreams doth Teſtify,</l>
+                     <l>Nothing to him but meer Neceſſity:</l>
+                     <l>But if the Rich man Dream courſe Bred he eats</l>
+                     <l>Loſſes and Croſſes the ſame to him then threats:</l>
+                     <pb n="35" facs="tcp:38245:29"/>
+                     <l>But to the Poor ſuch Dreams doth clearly ſhew;</l>
+                     <l>Profit and Gain to him thereby will flow.</l>
+                  </lg>
+                  <lg n="116">
+                     <head>
+                        <hi>116.</hi> On Broth.</head>
+                     <l>To dream of eating Broth is a good ſign;</l>
+                     <l>For Profit and great gain it doth Divine.</l>
+                  </lg>
+                  <lg n="117">
+                     <head>
+                        <hi>117.</hi> On Roast meat.</head>
+                     <l>Who dreams Roaſt-meat to eat he doth begin,</l>
+                     <l>Good hath forſaken, and runs into Sin.</l>
+                  </lg>
+                  <lg n="118">
+                     <head>
+                        <hi>118.</hi> On Cakes.</head>
+                     <l>To dream of making Cakes, or Tarts, or Pyes:</l>
+                     <l>Joy, Profit and Delight, it ſignifies.</l>
+                  </lg>
+                  <lg n="119">
+                     <head>
+                        <hi>119.</hi> On Capons or Hens Crowing.</head>
+                     <l>To here Capons, or Hens Crow, in thy dream,</l>
+                     <l>Troubles and Heavineſs it doth Proclaim.</l>
+                  </lg>
+                  <lg n="120">
+                     <head>
+                        <hi>120.</hi> On eating Fiſh.</head>
+                     <l>Who dreams he eats great Fiſh let him then know,</l>
+                     <l>Catarhs and Melancholly it doth ſhew.</l>
+                  </lg>
+                  <pb n="36" facs="tcp:38245:30"/>
+                  <lg n="121">
+                     <head>
+                        <hi>121.</hi> On a Cypreſs tree.</head>
+                     <l>If in thy dream a Cypreſs Tree appear;</l>
+                     <l>It ſhews Death, or Affliction draweth near.</l>
+                  </lg>
+                  <lg n="122">
+                     <head>
+                        <hi>122.</hi> On a Lawrel-tree.</head>
+                     <l>To dream, that thou doſt ſee a Lawrel tree:</l>
+                     <l>Pleaſure it doth denote, and Victory.</l>
+                  </lg>
+                  <lg n="123">
+                     <head>
+                        <hi>123.</hi> On Maſons.</head>
+                     <l>To dream you Build an Houſe, or th' Maſon play,</l>
+                     <l>Loſs, Sickneſs or Death, it ſignifies alway.</l>
+                  </lg>
+                  <lg n="124">
+                     <head>
+                        <hi>124.</hi> On the Breaſt and Papps.</head>
+                     <l>To dream of Breaſt and Papps covered with Hair</l>
+                     <l>Gain, and Profit, does thereby appear</l>
+                     <l>To Men: but if a Woman have ſuch Dream,</l>
+                     <l>Loſs of her Husband, is meant by the ſame.</l>
+                  </lg>
+                  <lg n="125">
+                     <head>
+                        <hi>125.</hi> On Sheep and Cows.</head>
+                     <l>Thoſe that of ſhee Goats dream, or Sheep, or Cows</l>
+                     <l>It Wealth and Plenty, to the dreamer ſhews.</l>
+                  </lg>
+                  <pb n="37" facs="tcp:38245:30"/>
+                  <lg n="126">
+                     <head>
+                        <hi>126.</hi> On turning the Spit.</head>
+                     <l>If thoſe are Rich, do dream of turning Spit,</l>
+                     <l>Then Servitude, to them, is meant by it:</l>
+                     <l>But if the Poorer ſort, dream ſuch a thing,</l>
+                     <l>Then Profit unto them, the ſame doth bring.</l>
+                  </lg>
+               </div>
+               <div type="section">
+                  <head>The ſignification of the ſeveral Repreſentations in Dreams, having divers Interpretations, according to the Poſition of the Moon in the Twelve ſigns of the Zodiack.</head>
+                  <lg n="127">
+                     <head>
+                        <hi>127.</hi> On Joy and Gladneſs.</head>
+                     <l>To dream of Joy the <hi>Moon</hi> in <hi>Aries,</hi> know</l>
+                     <l>It unto thee, doth trouble ſurely ſhew:</l>
+                     <l>
+                        <hi>Taurus</hi> and <hi>Cancer,</hi> coming of a Friend;</l>
+                     <l>The <hi>Moon</hi> in <hi>Gemini,</hi> doth Mony ſend:</l>
+                     <l>In <hi>Capricorn,</hi> or <hi>Leo,</hi> to appear,</l>
+                     <l>Seperation of a Friend, then fear:</l>
+                     <l>
+                        <hi>Libra</hi> ſhews grief, and in Virgo Gladneſs;</l>
+                     <l>
+                        <hi>Scorpio,</hi> denotes a Brothers ſadneſs:</l>
+                     <l>In <hi>Sagitarius</hi> Joy, <hi>Aquarius</hi> gain:</l>
+                     <l>The <hi>Moon</hi> in <hi>Piſces</hi> ſhews a Dream that's Vain.</l>
+                  </lg>
+                  <lg n="128">
+                     <head>
+                        <hi>128.</hi> On Weeping and Lamentation.</head>
+                     <l>To dream of Weeping, the <hi>Moon</hi> in <hi>Aries</hi> plac'd,</l>
+                     <l>Brawls and Contentions, expect thou mayſt,</l>
+                     <pb n="36" facs="tcp:38245:31"/>
+                     <l>If in <hi>Taurus,</hi> the <hi>Moon</hi> ſuch time you ſee,</l>
+                     <l>Then thou, in fear, of ſome dear Friend ſhall bee.</l>
+                     <l>Firm hope of Joy it ſhews in <hi>Gemini;</hi>
+                     </l>
+                     <l>In <hi>Cancer</hi> it denotes Infirmity.</l>
+                     <l>The <hi>Moon</hi> in <hi>Leo</hi> plac'd, Honours brings forth,</l>
+                     <l>In <hi>Virgo</hi> Gladneſs, and in <hi>Libra</hi> Mirth:</l>
+                     <l>In <hi>Scorpio</hi> Concord, or to meet ſome,</l>
+                     <l>In <hi>Sagitary</hi> expect Fear to come:</l>
+                     <l>Death of a Friend in <hi>Capricorn</hi> is ſhewn,</l>
+                     <l>In <hi>Aquarius</hi> will be ſhortly known</l>
+                     <l>The Death of ſome great man; and laſt of all</l>
+                     <l>The <hi>Moon</hi> in <hi>Piſces,</hi> ſome News hear you ſhall.</l>
+                  </lg>
+                  <lg n="129">
+                     <head>
+                        <hi>129.</hi> On Cloathing and Apparel.</head>
+                     <l>To dream of Cloathing or Apparel when</l>
+                     <l>The Moon's In <hi>Gemini</hi> or <hi>Aries,</hi> then</l>
+                     <l>Nothing it ſhews; in <hi>Piſces</hi> the ſame thing,</l>
+                     <l>In <hi>Taurus</hi> Joy, and <hi>Cancer</hi> good doth bring.</l>
+                     <l>Hatred in <hi>Leo,</hi> in <hi>Libra</hi> Sadneſs,</l>
+                     <l>In <hi>Virgo</hi> Contention, and Madneſs:</l>
+                     <l>In <hi>Scorpio</hi> it ſheweth Honour clear,</l>
+                     <l>In <hi>Sagitarius</hi> then Sickneſs fear.</l>
+                     <l>Ghoſts or Strangers doth <hi>Capricorn</hi> impart,</l>
+                     <l>And <hi>Aquarius</hi> ſheweth grief of Heart.</l>
+                  </lg>
+                  <lg n="130">
+                     <head>
+                        <hi>130.</hi> On Great Waters and Rivers.</head>
+                     <l>To Dream of Rivers wide, and Waters high,</l>
+                     <l>The Moon in <hi>Aries</hi> doth ſignify</l>
+                     <pb n="37" facs="tcp:38245:31"/>
+                     <l>Troubles; <hi>Taurus</hi> and <hi>Capricorn</hi> you'l find</l>
+                     <l>Contentions, and perplexity of Mind;</l>
+                     <l>
+                        <hi>Gemini;</hi> Infirmity; and know</l>
+                     <l>
+                        <hi>Cancer</hi> denotes Extremity and Woe.</l>
+                     <l>The Moon in <hi>Leo</hi> ſhews greatneſs and Power;</l>
+                     <l>And Money in <hi>Virgo,</hi> happy that hour:</l>
+                     <l>Nothing in <hi>Libra</hi> it doth ſignify,</l>
+                     <l>
+                        <hi>Scorpio,</hi> Gladneſs, praiſe and Jollity:</l>
+                     <l>Death or great pains <hi>Aquarius</hi> Teſtifies,</l>
+                     <l>
+                        <hi>Sagitarius,</hi> a vain Dream and Lies:</l>
+                     <l>And when <hi>Cynthea Piſces</hi> does poſſeſs,</l>
+                     <l>Then preſently doth follow ſome ſickneſs.</l>
+                  </lg>
+                  <lg n="131">
+                     <head>
+                        <hi>131.</hi> On the living Creatures of the Water.</head>
+                     <l>To dream of Waters living Creatures, and</l>
+                     <l>The Moon in <hi>Aries,</hi> Fear is then at hand:</l>
+                     <l>
+                        <hi>Leo</hi> the like Denotes: <hi>Taurus,</hi> I know</l>
+                     <l>Brings comfort; <hi>Gemini</hi> doth Money ſhew,</l>
+                     <l>
+                        <hi>Cancer</hi> doth ſignify a troubled mind,</l>
+                     <l>
+                        <hi>Virgo</hi> in loſs of Money is unkind.</l>
+                     <l>The Moon in <hi>Libra</hi> ſhews death of a Friend,</l>
+                     <l>In <hi>Scorpio</hi> thy life begins to mend;</l>
+                     <l>In <hi>Sagitarius</hi> good News thou'l have,</l>
+                     <l>In <hi>Capricorn</hi> then Trouble youl receive,</l>
+                     <l>
+                        <hi>Aquarius</hi> and <hi>Piſces</hi> ſickneſs bring,</l>
+                     <l>The Moon in both theſe ſigns ſhews the ſame thing.</l>
+                  </lg>
+                  <pb n="40" facs="tcp:38245:32"/>
+                  <lg n="132">
+                     <head>
+                        <hi>132.</hi> On the Chances and Misfortunes of Men.</head>
+                     <l>To dream of Men, and of the Chances all,</l>
+                     <l>Which ſeveral wayes and times do them befall,</l>
+                     <l>If the Moon in <hi>Aries</hi> have a place,</l>
+                     <l>It ſignifies Detraction and Diſgrace;</l>
+                     <l>Lying in <hi>Taurus;</hi> and in <hi>Gemini</hi>
+                     </l>
+                     <l>Honour; <hi>Leo</hi> doth nothing ſignify:</l>
+                     <l>In <hi>Cancer</hi> ſickneſs, or elſe ſome Diſeaſe,</l>
+                     <l>
+                        <hi>Capricorn</hi> grief of mind, all things diſpleaſe;</l>
+                     <l>In <hi>Virgo</hi> Famine; <hi>Libra</hi> teſtifies</l>
+                     <l>To thee the Death of thy grand Enemies.</l>
+                     <l>The Moon in <hi>Scorpio</hi> Diſſention ſends;</l>
+                     <l>And <hi>Sagitarius</hi> brings to thee new Friends:</l>
+                     <l>
+                        <hi>Aquarius</hi> doth lucky Dreams command,</l>
+                     <l>But <hi>Piſces</hi> ſhews Neceſſity at hand.</l>
+                  </lg>
+                  <lg n="133">
+                     <head>
+                        <hi>133.</hi> On Buildings.</head>
+                     <l>To dream of Buildings either great or ſmall,</l>
+                     <l>The Moon in <hi>Aries,</hi> Joy ſhall befall:</l>
+                     <l>
+                        <hi>Scorpio</hi> the like; but <hi>Taurus</hi> warns thee</l>
+                     <l>Of Death or ſtroke, ſome ſtrong hand ſhall harm thee</l>
+                     <l>Plague of the Fleſh in <hi>Gemini</hi> you know;</l>
+                     <l>
+                        <hi>Cancer,</hi> Money; <hi>Leo</hi> doth Travel ſhew:</l>
+                     <l>
+                        <hi>Virgo,</hi> good News; in <hi>Libra</hi> thou wilt find</l>
+                     <l>Much happineſs: <hi>Capricorn,</hi> Grief of mind.</l>
+                     <l>
+                        <hi>Aquarius</hi> a good Dream doth teſtify:</l>
+                     <l>But <hi>Piſces</hi> ſignifies Neceſſity.</l>
+                     <pb n="41" facs="tcp:38245:32"/>
+                     <l>And laſtly <hi>Sagitarius</hi> recommends</l>
+                     <l>And brings to thine Aquaintance ſome new Friends.</l>
+                  </lg>
+                  <lg n="134">
+                     <head>
+                        <hi>134.</hi> On the abuſe of Members.</head>
+                     <l>To dream of abuſed Members, underſtand,</l>
+                     <l>The Moon in <hi>Aries,</hi> ſome good in hand:</l>
+                     <l>Neceſſity in <hi>Taurus;</hi> and when plac'd</l>
+                     <l>In <hi>Gemini,</hi> then Troubles it doth haſte:</l>
+                     <l>
+                        <hi>Cancer</hi> and <hi>Libra</hi> both detraction ſend:</l>
+                     <l>In <hi>Virgo,</hi> joyfulneſs: <hi>Leo</hi> a Friend.</l>
+                     <l>The Moon in <hi>Scorpio,</hi> Sickneſs then draws near.</l>
+                     <l>In <hi>Sagitary,</hi> Idleneſs I fear:</l>
+                     <l>Money in <hi>Capricorn,</hi> and <hi>Piſces</hi> too,</l>
+                     <l>For both theſe Signs the ſelf fame thing do ſhew.</l>
+                  </lg>
+                  <lg n="135">
+                     <head>
+                        <hi>135.</hi> On Singing and Mirth.</head>
+                     <l>To dream of Mirth and ſinging when the Moon</l>
+                     <l>In <hi>Aries</hi> is plac'd, then News comes ſoon:</l>
+                     <l>
+                        <hi>Gemini</hi> doth better thy Condition;</l>
+                     <l>And <hi>Capricorn</hi> ſhews Comforts Fruition;</l>
+                     <l>
+                        <hi>Taurus</hi> a Journey doth prognoſticate;</l>
+                     <l>
+                        <hi>Cancer,</hi> nothing; <hi>Piſces</hi> Diſcord and hate.</l>
+                     <l>In <hi>Leo</hi> then nothing but Fancy gueſs:</l>
+                     <l>
+                        <hi>Virgo</hi> great Love: in <hi>Libra</hi> Trouble is,</l>
+                     <l>
+                        <hi>Scorpio</hi> and <hi>Sagitary</hi> grief of Mind:</l>
+                     <l>In <hi>Aquarius</hi> a vain Dream thou'l find.</l>
+                  </lg>
+                  <pb n="40" facs="tcp:38245:33"/>
+                  <lg n="136">
+                     <head>
+                        <hi>136.</hi> On the Arival of a Friend.</head>
+                     <l>To dream of the Arival of a Friend,</l>
+                     <l>The Moon in <hi>Aries,</hi> a Gift doth ſend:</l>
+                     <l>
+                        <hi>Taurus</hi> and <hi>Gemini</hi> doth nothing ſhew,</l>
+                     <l>In <hi>Cancer</hi> great increaſe of Money know,</l>
+                     <l>Loſs of Honour by <hi>Leo</hi> doth appear,</l>
+                     <l>The Moon in <hi>Virgo</hi> Poverty draws near:</l>
+                     <l>And in <hi>Libra,</hi> then comes Lamentation,</l>
+                     <l>In <hi>Sagitary</hi> is Honors ſtation.</l>
+                     <l>
+                        <hi>Scropio</hi> Riches, <hi>Capricorn</hi> News great:</l>
+                     <l>And <hi>Aquarius</hi> doth great Troubles threat:</l>
+                     <l>And when in <hi>Piſces</hi> the Moons place is known:</l>
+                     <l>Then judge that wearineſs by it is ſhewn.</l>
+                  </lg>
+                  <lg n="137">
+                     <head>
+                        <hi>137.</hi> On Change of Habitation.</head>
+                     <l>To dream of Change of Place to lead thy Life:</l>
+                     <l>The Moon in <hi>Aries</hi> denoteth ſtrife:</l>
+                     <l>
+                        <hi>Taurus</hi> good to thy ſelf, expect from hence;</l>
+                     <l>
+                        <hi>Gemini</hi> News: <hi>Cancer</hi> death of a Prince:</l>
+                     <l>
+                        <hi>Leo,</hi> joy of a Gheſt doth ſignifie:</l>
+                     <l>The Moon in <hi>Virgo</hi> ſhews an Enemy:</l>
+                     <l>
+                        <hi>Libra</hi> denotes ſomewhat is ſtoln from thee:</l>
+                     <l>In <hi>Sagitary</hi> will nothing be:</l>
+                     <l>
+                        <hi>Aquarius</hi> great Solace doth ſet forth,</l>
+                     <l>
+                        <hi>Capricorn</hi> Anger, <hi>Scorpio</hi> great worth:</l>
+                     <pb n="41" facs="tcp:38245:33"/>
+                     <l>In <hi>Piſces</hi> when the Moon hath her Carrcer,</l>
+                     <l>Expect ſome great and ſtrange News for to hear.</l>
+                  </lg>
+                  <lg n="138">
+                     <head>
+                        <hi>138.</hi> On the ſeeing of Fire.</head>
+                     <l>To dream of Fire, if <hi>Cynthea</hi> ſee</l>
+                     <l>
+                        <hi>Aries</hi> or <hi>Virgo,</hi> Troubles will be:</l>
+                     <l>
+                        <hi>Taurus</hi> a Gheſt; <hi>Gemini</hi> Monies increaſe;</l>
+                     <l>In <hi>Cancer</hi> or <hi>Scorpio</hi> ſome Diſeaſe:</l>
+                     <l>In <hi>Leo</hi> Combats and Quarrells it ſhews;</l>
+                     <l>
+                        <hi>Libra, Sagitary, Capricorn</hi> ill News.</l>
+                     <l>
+                        <hi>Aquarius</hi> doth Grief of Mind impart,</l>
+                     <l>And <hi>Piſces</hi> alſo Sadneſs ſhews of Heart.</l>
+                  </lg>
+                  <lg n="139">
+                     <head>
+                        <hi>139.</hi> On Riding and Travelling.</head>
+                     <l>To dream of Travelling and Riding when</l>
+                     <l>The Moons in <hi>Aries,</hi> think of dying then:</l>
+                     <l>
+                        <hi>Taurus</hi> ſhews Honour, <hi>Gemini</hi> a Friend;</l>
+                     <l>But nothing in <hi>Cancer</hi> it doth portend:</l>
+                     <l>
+                        <hi>Virgo</hi> a Battel ſhews; <hi>Leo</hi> long Life:</l>
+                     <l>
+                        <hi>Libra,</hi> humility; <hi>Scorpio</hi> ſtrife:</l>
+                     <l>
+                        <hi>Piſces</hi> and <hi>Sagitary,</hi> ſlanders give;</l>
+                     <l>
+                        <hi>Capricorn,</hi> Theft; <hi>Aquarius</hi> Gheſts thou'lt have.</l>
+                  </lg>
+                  <pb n="44" facs="tcp:38245:34"/>
+                  <lg n="140">
+                     <head>
+                        <hi>140.</hi> On Murder and Killing.</head>
+                     <l>To dream of Murdering, Cruel Madneſs,</l>
+                     <l>The Moon in <hi>Aries</hi> ſheweth Sadneſs:</l>
+                     <l>Death of a Friend in <hi>Taurus; Gemini</hi>
+                     </l>
+                     <l>Confeſſion: <hi>Cancer</hi> Riches doth deſcry:</l>
+                     <l>In <hi>Leo</hi> Sickneſs: and in <hi>Virgo</hi> grief:</l>
+                     <l>In <hi>Libra</hi> Poverty without Relief:</l>
+                     <l>In <hi>Sagitarius</hi> Death; in <hi>Scorpio</hi> then</l>
+                     <l>Expect ſome puniſhment follows thy ſin:</l>
+                     <l>
+                        <hi>Capricorn,</hi> gladneſs for ſome reward:</l>
+                     <l>Dreams in <hi>Aquarius</hi> nothing afford:</l>
+                     <l>And when the Moon's in <hi>Piſces</hi> plac'd, good things;</l>
+                     <l>To thoſe that dream of Murder, it then brings.</l>
+                  </lg>
+                  <lg n="141">
+                     <head>
+                        <hi>141.</hi> On dead People.</head>
+                     <l>To dream of ſome are dead, the Moon then ſought</l>
+                     <l>In <hi>Aries,</hi> ſhews Riches; <hi>Taurus</hi> nought:</l>
+                     <l>
+                        <hi>Gemini</hi> bad news: in <hi>Libra</hi> gladneſs:</l>
+                     <l>And <hi>Cancer</hi> ſhews contentious Madneſs:</l>
+                     <l>But the Moon in <hi>Leo</hi> Money declares:</l>
+                     <l>
+                        <hi>Virgo,</hi> a Gheſt: <hi>Capricorn,</hi> Joys prepares:</l>
+                     <l>
+                        <hi>Scorpio</hi> and <hi>Piſces</hi> ſhew dreams thats vain:</l>
+                     <l>But <hi>Sagitary</hi>'s good News makes thee fain:</l>
+                     <l>Good things to come, <hi>Aquarius</hi> relates:</l>
+                     <l>And few, I think, there are that ſuch things hates.</l>
+                  </lg>
+                  <pb n="45" facs="tcp:38245:34"/>
+                  <lg n="142">
+                     <head>
+                        <hi>142.</hi> On bathing in Water.</head>
+                     <l>To dream you in the Water waſh or Bath,</l>
+                     <l>The Moon in <hi>Aries,</hi> Loſſes thou'l have:</l>
+                     <l>
+                        <hi>Aquarius</hi> the like: <hi>Cancer</hi> anger great:</l>
+                     <l>
+                        <hi>Gemini</hi> ill Name; <hi>Taurus</hi> troubles threats:</l>
+                     <l>In <hi>Leo</hi> Joy: in <hi>Virgo</hi> grief of mind:</l>
+                     <l>
+                        <hi>Libra</hi> and <hi>Sagitary</hi> in Riches kind:</l>
+                     <l>In <hi>Scorpio</hi> Fear: in <hi>Capricornus</hi> Joy:</l>
+                     <l>
+                        <hi>Piſces</hi> with labor hard will thee annoy.</l>
+                  </lg>
+                  <lg n="143">
+                     <head>
+                        <hi>143.</hi> On Money.</head>
+                     <l>To dream of Money, when the Moon you find</l>
+                     <l>In <hi>Aries,</hi> ſhews ſickneſs, or grief of Mind:</l>
+                     <l>
+                        <hi>Taurus</hi> a heavy dream: <hi>Scorpio,</hi> Theft;</l>
+                     <l>
+                        <hi>Gemini</hi> of a Friend thou art bereft:</l>
+                     <l>
+                        <hi>Cancer, Capricorn</hi> and <hi>Piſces</hi> alſo,</l>
+                     <l>In all theſe Signs the Moon a Gheſt doth ſhew:</l>
+                     <l>In <hi>Leo</hi> Money, <hi>Virgo</hi> wearineſs:</l>
+                     <l>
+                        <hi>Libra,</hi> Death of an Enemy then gueſs.</l>
+                     <l>In <hi>Sagitarius</hi> the Dream is vain:</l>
+                     <l>But Joy in <hi>Aquarius</hi> doth remain.</l>
+                  </lg>
+                  <pb n="44" facs="tcp:38245:35"/>
+                  <lg n="144">
+                     <head>
+                        <hi>144.</hi> On fear of ſome ſight.</head>
+                     <l>To dream you'r fearful of ſome ſight you ſee,</l>
+                     <l>The Moon in <hi>Aries,</hi> Troubles will be:</l>
+                     <l>
+                        <hi>Taurus</hi> ſome Battel, <hi>Libra's</hi> dream is vain,</l>
+                     <l>And <hi>Scorpio</hi> denotes to you the ſame.</l>
+                     <l>
+                        <hi>Leo</hi> Sickneſs, <hi>Cancer</hi> good Fortune bears;</l>
+                     <l>
+                        <hi>Aquarius,</hi> grief of Mind; <hi>Piſces</hi> Tears.</l>
+                     <l>
+                        <hi>Capricorn</hi> ſelf-Envy doth always bring:</l>
+                     <l>
+                        <hi>Gemini,</hi> bad Conſcience, and worſe thing:</l>
+                     <l>In <hi>Virgo</hi> then Money is underſtood:</l>
+                     <l>And <hi>Sagitarius</hi> brings News that's good.</l>
+                  </lg>
+                  <lg n="145">
+                     <head>
+                        <hi>145.</hi> On fighting and Quarrels.</head>
+                     <l>To dream of Fighting when the Moon doth ſtay</l>
+                     <l>In <hi>Aries,</hi> ſhews Infirmity, moſt ſay:</l>
+                     <l>And if in <hi>Taurus</hi> the Moon then tarry,</l>
+                     <l>Victory over an Adverſary.</l>
+                     <l>
+                        <hi>Cancer</hi> Advancement; <hi>Gemini,</hi> good Name,</l>
+                     <l>
+                        <hi>Leo,</hi> Envy: <hi>Virgo</hi> good News doth frame.</l>
+                     <l>
+                        <hi>Libra</hi> an Enemy: if th'Moon poſſeſs</l>
+                     <l>
+                        <hi>Scorpio,</hi> then expect ſome buſineſs:</l>
+                     <l>In <hi>Sagitary</hi> expect this <hi>Omen,</hi>
+                     </l>
+                     <l>Some unlook'd for News to hear of Women.</l>
+                     <l>A Meſſenger in <hi>Capricorn</hi> is ſhewn:</l>
+                     <l>
+                        <hi>Aquarius</hi> thine Enemies are flown.</l>
+                     <pb n="45" facs="tcp:38245:35"/>
+                     <l>And when the Moon in <hi>Piſces</hi> takes her place,</l>
+                     <l>Then think ſome joy thou ſhortly ſhalt imbrace.</l>
+                  </lg>
+                  <lg n="146">
+                     <head>
+                        <hi>146.</hi> On robbing a man.</head>
+                     <l>To dream a man is robb'd by Enemies,</l>
+                     <l>The Moon in <hi>Aries</hi> diſceit implies.</l>
+                     <l>
+                        <hi>Taurus,</hi> Riches, <hi>Gemini</hi> a good Name:</l>
+                     <l>
+                        <hi>Virgo</hi> Poverty, <hi>Sagitary</hi> Fame;</l>
+                     <l>
+                        <hi>Cancer</hi> ſome friends to come; <hi>Leo</hi> Rewards,</l>
+                     <l>
+                        <hi>Scorpio</hi> Death of Enemies regards:</l>
+                     <l>Poverty in <hi>Virgo</hi> is there noted:</l>
+                     <l>To <hi>Capricorn</hi> is ſome Gheſt allotted.</l>
+                     <l>
+                        <hi>Aquarius</hi> Labour great doth ſhew and toil,</l>
+                     <l>
+                        <hi>Piſces</hi> departure when thou dreams of diſpoil.</l>
+                  </lg>
+                  <lg n="147">
+                     <head>
+                        <hi>147.</hi> Of Diſeaſes and Sickneſs.</head>
+                     <l>To dream of ſome diſeaſe, or ſick to be,</l>
+                     <l>The Moon in <hi>Aries</hi> you nothing ſee.</l>
+                     <l>
+                        <hi>Taurus</hi> and <hi>Capricorn</hi> both Joy declare;</l>
+                     <l>
+                        <hi>Cancer,</hi> of looſing Money have a Care.</l>
+                     <l>
+                        <hi>Aquarius</hi> and <hi>Leo</hi> joy of ſome Friends:</l>
+                     <l>
+                        <hi>Virgo,</hi> Gladneſs: <hi>Libra</hi> comfort ſends:</l>
+                     <l>
+                        <hi>Sagitary,</hi> ſickneſs: <hi>Scorpio</hi> ſome Sights:</l>
+                     <l>
+                        <hi>Piſces</hi> with good Employment thee delights:</l>
+                     <l>And if in <hi>Gemini</hi> the Moon appear,</l>
+                     <l>Of ſome deceit then ſee thou have a care.</l>
+                  </lg>
+                  <pb n="48" facs="tcp:38245:36"/>
+                  <lg n="148">
+                     <head>
+                        <hi>148.</hi> On Kiſſes and Embraces.</head>
+                     <l>To dream of Kiſſes and Embraces when</l>
+                     <l>The Moon's in <hi>Aries,</hi> Troubles come then:</l>
+                     <l>
+                        <hi>Taurus,</hi> Detraction, <hi>Virgo,</hi> Sadneſs;</l>
+                     <l>
+                        <hi>Leo,</hi> Advancement, and <hi>Piſces,</hi> Gladneſs:</l>
+                     <l>
+                        <hi>Cancer,</hi> Misfortune and ill Luck to thee:</l>
+                     <l>
+                        <hi>Gemini</hi> Quarrells, or an Enemy:</l>
+                     <l>
+                        <hi>Libra,</hi> a Gheſt; <hi>Scorpio</hi> Joy of Life:</l>
+                     <l>
+                        <hi>Sagitary,</hi> Labour; <hi>Aquarius</hi> Strife:</l>
+                     <l>
+                        <hi>Capricorn</hi> bids beware of jugling Friends,</l>
+                     <l>Whoſe Kiſſes and Embraces are ſelf ends.</l>
+                  </lg>
+                  <lg n="149">
+                     <head>
+                        <hi>149.</hi> On Banquets and Feasts.</head>
+                     <l>To dream of Feaſts and Banquets it will be,</l>
+                     <l>In <hi>Aries</hi> or <hi>Piſces,</hi> joy unto thee:</l>
+                     <l>The ari<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>al of a Friend <hi>Taurus</hi> ſhews,</l>
+                     <l>
+                        <hi>Leo,</hi> long life, and <hi>Virgo</hi> brings good news:</l>
+                     <l>It ſeparation brings in <hi>Capricorn;</hi>
+                     </l>
+                     <l>Sickneſs or Poverty <hi>Libra</hi> brings on:</l>
+                     <l>
+                        <hi>Scorpio</hi> Money; and <hi>Sagitary</hi>
+                     </l>
+                     <l>Brings many Delights to make thee merry:</l>
+                     <l>
+                        <hi>Gemini,</hi> Gladneſs when the Moon is there,</l>
+                     <l>And when in <hi>Cancer,</hi> nothing doth appear,</l>
+                     <l>And in <hi>Aquarius,</hi> it ſhews the ſame,</l>
+                     <l>For when the Moon is there the Dream is vain.</l>
+                  </lg>
+                  <pb n="49" facs="tcp:38245:36"/>
+                  <lg n="150">
+                     <head>
+                        <hi>150.</hi> On Aſſemblies and great Meetings.</head>
+                     <l>To dream of Meetings great which people uſe,</l>
+                     <l>The Moon in <hi>Aries</hi> declareth News.</l>
+                     <l>
+                        <hi>Gemini,</hi> Fear, in <hi>Taurus</hi> Strife and Wo:</l>
+                     <l>
+                        <hi>Scorpio, Leo, Virgo,</hi> ill News ſhew:</l>
+                     <l>
+                        <hi>Cancer</hi> brings Joy, but <hi>Libra</hi> a diſeaſe:</l>
+                     <l>And <hi>Sagitary</hi> little brings to pleaſe:</l>
+                     <l>
+                        <hi>Aquarius</hi> and <hi>Piſces</hi> dreams are vain:</l>
+                     <l>And <hi>Capricorn</hi> doth alſo ſhew the ſame.</l>
+                  </lg>
+                  <lg>
+                     <head>The Concluſion.</head>
+                     <l>You Somniators what you here have read,</l>
+                     <l>Think not it alwaies hits the Nail on'th head:</l>
+                     <l>For as an Archer who directs his Sight</l>
+                     <l>Upon the Mark, not alwaies hits the white;</l>
+                     <l>Sometimes in, and ſhort, and wide, and over,</l>
+                     <l>So here, ſometimes we hit, and ſometimes at Rover,</l>
+                     <l>We alſo ſhoot, and far are from the thing</l>
+                     <l>And the True meaning, which the dream doth bring.</l>
+                     <l>But then ſome otherwhiles we nearer ſhoot,</l>
+                     <l>So that we even hit the very clout;</l>
+                     <l>And meaning of the dream do plainly ſhew,</l>
+                     <l>And gueſs the very thing it ſelf full true,</l>
+                     <l>Though preſently it fall not always out,</l>
+                     <l>Yet it will be full ſure without all doubt.</l>
+                     <pb n="50" facs="tcp:38245:37"/>
+                     <l>For know ſometimes a Week, a Month, a Year</l>
+                     <l>It is, before the Effects of Dreams appear:</l>
+                     <l>Therefore expect not alwayes that thou ſhall</l>
+                     <l>See preſently th'Interpretation fall:</l>
+                     <l>Sooner ſometimes, ſometimes t'will longer be,</l>
+                     <l>Sometimes perhaps th'Effects thou'l never ſee:</l>
+                     <l>For what this little Pamphlet doth bring forth,</l>
+                     <l>'Tis Linſy Woolſy, Droll with ſerious Mirth:</l>
+                     <l>And it is come abroad with full Intent,</l>
+                     <l>Only to make Thee mirth and merriment.</l>
+                  </lg>
+                  <lg>
+                     <head>Authoris Concilium ad Lectores.</head>
+                     <l>Keep God's Commandements and fear his Name</l>
+                     <l>Vanity of Vanities all elſe is Vain.</l>
+                  </lg>
+               </div>
+               <trailer>FINIS Somniorum</trailer>
+            </div>
+            <div type="part">
+               <pb n="51" facs="tcp:38245:37"/>
+               <head>Hereafter followeth a Deſcription of the Conſtitutions of the <hi>Melancho<g ref="char:EOLhyphen"/>lick, Phlegmatick, Cholerick</hi> and <hi>Sanguine</hi> Perſons: To which is ad<g ref="char:EOLhyphen"/>ded ſome Phyſiognomal Characters of Perſons of ſeveral different Hu<g ref="char:EOLhyphen"/>mours and Inclinations.</head>
+               <div type="section">
+                  <head>Of the Melancholick.</head>
+                  <p>THEY are for the moſt part black, cold, dry, rough skin'd, with thin, harſh and curled hair, lean in body, ſtout Eaters, great joynts, ſlow and backward in their Reſolutions, diffident, ſuſpi<g ref="char:EOLhyphen"/>cious, ingenious, and generally malicious: they are perſons of few words, cloſe, hypocritical and con<g ref="char:EOLhyphen"/>ceited; generally they are Enemies to Drollery, retired perſons, lovers of ſolitude and not very ac<g ref="char:EOLhyphen"/>coſtable or familiar; for they affect but few per<g ref="char:EOLhyphen"/>ſons, and thoſe but coldly too, ſoon moved to an<g ref="char:EOLhyphen"/>ger and paſſion, though upon very ſmall grounds,
+<pb n="52" facs="tcp:38245:38"/>moſt of them are covetous, by reaſon of that diffi<g ref="char:EOLhyphen"/>dence and diſtruſt which ever accompanies them; fearful that their Eſtate will decay, and ſo alwayes griping and miſerable; They are enemies as wel to thoſe they have offended, as to thoſe they do of<g ref="char:EOLhyphen"/>fend; great vindicators of themſelves; irreconci<g ref="char:EOLhyphen"/>lable, or at leaſt you muſt not truſt them over-far, and too much depend upon their Reconciliation; in a word, they are much given to Extreams, and are either extraordinary Virtuous or Vicious.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Phlegmatick.</head>
+                  <p>They are naturally moiſt, white, and ſoft skin'd, and their joints are for the moſt part hid; they are timorous, ſleep well, their eyes running; they hate labor and pains, and are often given to Leche<g ref="char:EOLhyphen"/>ry; if they abound not with Flegm too much they are indifferently capacitated for Learning; but o<g ref="char:EOLhyphen"/>therwiſe they are of a ſtupid apprehenſion, and dul Capacity: their hair and nails increaſe and grow much, and their Mouths always water, which if it be white and fluid is a good ſign, but if viſcous, the contrary; Thy are ſeldom thirſty, and ſo drink rarely but at meals: their digeſtive Faculty is but ſlow, ſo their Appetite is ſmall: their eies are heavy, and urine white, and where their Comple<g ref="char:EOLhyphen"/>xion is pale without a mixture of red, they are
+<pb n="53" facs="tcp:38245:38"/>laxative in Body; as for the temper of the Mind they have much of the dulneſs and ſlowneſs; but neither the ſpirit nor Malice of the Melancholick, for they are neither extraodinary inveterate in their hatred, nor very fervent in their Love: that coldneſs which freezeth their heart, makes them more diſtruſtful of themſelves than others; they are irreſolute in their Councils, and timorous in the Execution of them: and very fearful of underta<g ref="char:EOLhyphen"/>king and looſing their Deſigns, and it often hap<g ref="char:EOLhyphen"/>pens through their Ignorance of the means, and miſunderſtanding of the Thing.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Cholerick.</head>
+                  <p>The Perſons of this Conſtitution, are lean, and of a pale yellowiſh Complexion, have a bitterneſs in the Mouth, and roughneſs in the Throat: they are often troubled with the Headach, they uſual<g ref="char:EOLhyphen"/>ly vomit green and yallow ſtuff, that is very bit<g ref="char:EOLhyphen"/>ter, they are very thirſty, and ſpit little: they ſleep but little: their Urine is clear of a fiery-colour, and their Ordure is hard almoſt burnt up; as to their mind, they are de<g ref="char:EOLhyphen"/>xterous in all things, proud, haughty and deſirous that all perſons ſhould be ſubject to their hu<g ref="char:EOLhyphen"/>mour; they are Enemies to the leaſt Diſobedience; impatient in the Execution of their Enterpriſes, raſh in their Counſels, little minding the Advice
+<pb n="52" facs="tcp:38245:39"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="53" facs="tcp:38245:39"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="54" facs="tcp:38245:40"/>of others, unleſs it be to find a perſon that is of their own Temper, and undertakes the perform<g ref="char:EOLhyphen"/>ance of their wills; if you ſeem to bear in mind any offence they have given you, then they ſtudy Revenge, and mortally hate thoſe they have offen<g ref="char:EOLhyphen"/>ded; otherwiſe though they are injurious, yet they are not very offenſive but ſoon pacified.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Sanguine.</head>
+                  <p>Theſe perſons are generally very ſtrong and couragious, and, when the Blood abounds, have a Tickling or ſharp Itching all over the Body; their Mouth is full of Bladders, and their Urine is red; as to the qualifications of their Mind, they are jo<g ref="char:EOLhyphen"/>vial, lovers of Recreations, Enemies to ſadneſs, and vexation, avoiding diſturbing and thorny Bu<g ref="char:EOLhyphen"/>ſineſs and Conteſts, deſirous of Peace, freely com<g ref="char:EOLhyphen"/>mitting the management of their affairs to others, referring themſelves wholly to them: loving thoſe that diſcharge them without any occaſion of Com<g ref="char:EOLhyphen"/>plaint; thy are courteous and kind, and loth to injure any perſon, and if they are conſtrained to it, it is then in words rather then otherwiſe, and they ſoon bury in Oblivion the injury done them; They are generally liberal and free, and take de<g ref="char:EOLhyphen"/>light to pleaſe others.</p>
+               </div>
+               <div type="section">
+                  <pb n="55" facs="tcp:38245:40"/>
+                  <head>Of the juſt man.</head>
+                  <p>His voice is bigg, loud, inflexible, or elſe mean between the Baſe and Trebble; his hair of a dark color, a piercing look, that carries terror in it; his Aſpect neither wild nor humble, but with a cer<g ref="char:EOLhyphen"/>tain penſiveneſs, full of Reverence and dignity: his Eyes are full, and the Balls thereof proportionably round, or the Circle that is underneath ſurround<g ref="char:EOLhyphen"/>ing the Ball of the Eye, narrow and black: but the upper part of thoſe Eyes that are full of the Chri<g ref="char:EOLhyphen"/>ſtalline humour, caſts a kind of ſparkling Luſtre, and nothing ſeems ſtrange or joyful in them: or their Eyes water with Laughing, their Ey lids look<g ref="char:EOLhyphen"/>ing downwards; the forehead is long and exten<g ref="char:EOLhyphen"/>ded towards both the Temples.</p>
+               </div>
+               <div type="section">
+                  <head>Of the faithful Perſon:</head>
+                  <p>His Eyes are of a moderate ſize, drawing to<g ref="char:EOLhyphen"/>wards a dusky or black color; large and fixed or heavy, and the Ey-brows cloſing together, with a ſupercilious and downlook.</p>
+               </div>
+               <div type="section">
+                  <head>Of the honeſt man.</head>
+                  <p>He is of a comely Aſpect breathing moderate<g ref="char:EOLhyphen"/>ly,
+<pb n="56" facs="tcp:38245:41"/>his eyes hollow and moving like water in a Veſ<g ref="char:EOLhyphen"/>ſel, having a ſober ſtaid or pleaſant look, the Eyes always open, of a ſad Colour, and the Circle of them neither too big nor too little, and full of Chriſtalline humour, cloſely ſhutting the Ey-brows, and the forehead ſupercilious and depreſſed, with a big noſe well proportion'd to the face; or long extended to the Mouth, or moderately large long and open, his breſt large and ſhoulders broad; the paps of his Breaſt of a moderate ſize.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Prudent Perſon.</head>
+                  <p>He is ſtender in Body, his head rather big than little, extended from the fore part to the hin<g ref="char:EOLhyphen"/>der, and uſually fair haird; his Fore-head ſquare and duly proportioned; his face full and of a moderate ſize; a ſmooth Tongue, his voice neither deep nor ſmall; the upper lip ſtanding out, and his Neck ſomething leaning to the right ſide; large cheſted, and broad ſhoulder'd: his eies large, high ſet, caſting a luſtre radient and full of moiſture; and his hands and fingers long, without any mo<g ref="char:EOLhyphen"/>ving geſture in his diſcourſe.</p>
+               </div>
+               <div type="section">
+                  <head>Of the good natur'd Man.</head>
+                  <p>His face is neither too big nor too little, he laught
+<pb n="57" facs="tcp:38245:41"/>but ſeldom, his voice neither ſhrill deep nor ſmall; his eyes hollow, fixed of a leaden colour, full and watchful, ſhining as if moiſtned with water; his Forehead neither full nor wrinkled, his Ears of a comely ſquare proportion, and his feet well ſhap'd, jointed and nervous.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Ingenious.</head>
+                  <p>His head is of a middle ſize, proportionable to the Neck in bigneſs, equal and well ſhap'd, ſtoop<g ref="char:EOLhyphen"/>ing a little in the ſhoulders, his voice clear between a Baſe &amp; Treble; he hath a ſweet air in his Coun<g ref="char:EOLhyphen"/>tenance; his hair is full, and moderate between thick and thin, his Eies are full, comely and indif<g ref="char:EOLhyphen"/>ferently round; his Thighs and skin ſoft and moiſt, and not very fleſhy, neither too hairy nor altoge<g ref="char:EOLhyphen"/>ther without hair: the Palms of his hands are long, his finger ſlenders and ſharp at the ends; he is moderate in weeping and laughing, his counte<g ref="char:EOLhyphen"/>nance is mixed with joy and pleaſantneſs.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Constant.</head>
+                  <p>Their Eies are dark, moiſt and truly propor<g ref="char:EOLhyphen"/>tion'd, their Ey-brows black and ſubſtantial; and they very ſeldom are ſeen to laugh.</p>
+               </div>
+               <div type="section">
+                  <pb n="58" facs="tcp:38245:42"/>
+                  <head>Of thoſe that are apt to learn.</head>
+                  <p>Their Ey-brows are thin, clear and large, their Fore-head extended at length, and their hair ſom<g ref="char:EOLhyphen"/>what near the flaxen color, their Ears ſunk into the head: they have a meagre thin look, and ſeldom laugh; their neck leaning to the right ſide, they are large ſhoulder'd, and broad or narrow Cheſt<g ref="char:EOLhyphen"/>ed: they are well ſhaped, of a leaden or black co<g ref="char:EOLhyphen"/>lour, radient, and either large, fixed, dark and moiſt, or ſteddy, little and moiſt, exactly propor<g ref="char:EOLhyphen"/>tioned; the fore-head extended and ſmooth, the Ey-lids movable, yet ſo as if they were ſteady and fixed: their belly is well proportioned, and they uſe the geſture of the hands in their diſcourſe.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Liberal.</head>
+                  <p>His hair falls upon his Forehead, his Neck is hairy, his Fingers and ſhoulders are bowed back<g ref="char:EOLhyphen"/>wards, and he is long arm'd.</p>
+               </div>
+               <div type="section">
+                  <head>Of thoſe that have a ſtrong Memory.</head>
+                  <p>All the upper parts of the body are ſmall com<g ref="char:EOLhyphen"/>ly, well ſhaped, proportionable, and well fleſh'd but not fat.</p>
+               </div>
+               <div type="section">
+                  <pb n="59" facs="tcp:38245:42"/>
+                  <head>Of the temperate.</head>
+                  <p>His Eyes are large radient and moiſt, having a black Circle under a red one, the corners of his eies are ſhort, and the Ball of the Ey of a mean proportion: his Neck leans on the right ſide, his hair is neither light nor thick, the forehead neither ſmooth nor wrinkled, his mouth neither wide nor little, and he draws his breath moderately.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Baſhful Perſon.</head>
+                  <p>He is ſlow in his Motion and Speech; his voice grave and ſpirituous, a brisk not ſparkling ey, nor very open nor yet quire cloſed, which ſhuts lea<g ref="char:EOLhyphen"/>ſurely very red: the body bowed, the ears red, his Eyes ſad coloured and moiſt of a juſt proportion.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Couragious.</head>
+                  <p>He is harſh hair'd, hath a ſtrait Body, and the Bones Ribs and Extremities of the Body are ſtrong and big: his forehead high, but neither ſharp, ſmooth nor rough, but lean and large: his neck is faſt, but not full fleſh'd; he hath a menacing, ſtrong loud voice, a moiſt eye and look full of terror; he is large and ſtrong ſhoulder'd: his head is ſome<g ref="char:EOLhyphen"/>what
+<pb n="60" facs="tcp:38245:43"/>what larger than ordinary, his Noſe ſuitable to his Forehead; he is wide mouthed and thin lip'd, the upper and lower lips being both alike: he hath long Arms, with big and harſh hands.</p>
+               </div>
+               <div type="section">
+                  <head>Of the ſincere man.</head>
+                  <p>His face is of a middle ſize, his Cheeks are plump, and temples full: his voice neither deep nor ſharp.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Merciful Man.</head>
+                  <p>His eies are plump, and Ey-brows are directly ſtrait, and he hath a long cloudy brow; is a great lover of Women, and doth procreate Children; he hath a very tenacious Memory, is ingenious and witty: and hath a comly fair Complexion.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Facetious.</head>
+                  <p>The Figure and Symetry of his Face is exactly proportionable, he is of a graceful aſpect, neither compoſed nor effeminate; his Eyes are moiſt and ſhining, and ſlow in their motion, his look is ſeem<g ref="char:EOLhyphen"/>ingly drowſy; and he hath a broad fleſhy and ſmooth Forehead, or wrinkled a little about the Eies, and hath a ſoft voice and pleaſant brow.</p>
+               </div>
+               <div type="section">
+                  <pb n="61" facs="tcp:38245:43"/>
+                  <head>Of the Heroick Perſon.</head>
+                  <p>He hath large ſparkling Eyes under a comely Brow, a ſharp look, the Ears deep pierced and well made, advanced and quick of hearing; his head well proportioned rather big than little, of an exact roundneſs, advanced before and behind; the forehead ſquare, between ſmooth and wrinkled; his mouth rather large than little; his voice and mirth moderate, and his ſpeech grave; his lips ſoft and colored, his hair inclining to a flaxen colour; his Complexion clear and ſomewhat ruddy, and his hands alwayes big and of a large ſize.</p>
+               </div>
+               <div type="section">
+                  <head>Of the bold and hardy.</head>
+                  <p>His Eyes are glittering, of a green or ſanguine colour, moving to and fro without ſtirring the Ey-brows, large and dry, caſting a pure ſhining Lu<g ref="char:EOLhyphen"/>ſtre; he hath long Ey-brows, and Noſe extended even to the Mouth; which is wide, and teeth long thin and ſharp: he hath an auſteer look, and wrin<g ref="char:EOLhyphen"/>kled Brow, with a large Breaſt, wide ſhoulders, and long Arms that reach down to the Knees.</p>
+               </div>
+               <div type="section">
+                  <pb n="62" facs="tcp:38245:44"/>
+                  <head>Of the Mechanick.</head>
+                  <p>Their hands and fingers are long, their Eies moiſt, often opening and ſhutting: they are ſome<g ref="char:EOLhyphen"/>what inclining to a flaxen colour.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Penſive.</head>
+                  <p>Their Forehead is wrinkled, and they draw their breath ſoftly and unheard, are wry neck'd and have a ſlow pace.</p>
+               </div>
+               <div type="section">
+                  <head>Of the unjuſt Perſon.</head>
+                  <p>His Eyes are greeniſh, ſomewhat dry or red<g ref="char:EOLhyphen"/>diſh, immovable and large, looking downwards: the inferiour Circle of the Apple thereof is green, and the ſuperiour black; thoſe parts are without the Eye, as the Forehead, Cheeks, Ey-brows and Lids, move often, or are open and ſmiling, and he looks with a fixed or menacing Countenance.</p>
+               </div>
+               <div type="section">
+                  <head>Of Murtherers.</head>
+                  <p>Their Ey-brows are thick, tufted and joyned to<g ref="char:EOLhyphen"/>gether, the Circle near the apple of the Eye, unſet<g ref="char:EOLhyphen"/>tled, dry, very, roling or pale colored.</p>
+               </div>
+               <div type="section">
+                  <pb n="63" facs="tcp:38245:44"/>
+                  <head>Of the Ideot.</head>
+                  <p>He hath a full plum fleſhy face, and thick Lips, ſpeaks not freely, hath a ſtrait neck, and his Body leaning to the left.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Furious.</head>
+                  <p>He hath plump Cheeks, but is ſomewhat long Viſag'd, his eies move but ſlowly, he is bottle noſ'd upwards, hath a little head, the fore and hinder part hollow, the forehead round and high: the paps of his breaſt are big and fleſhy; the ſpace between his Navel and the lower part of the Breaſt, longer than that between the lower part of the Breaſt and the Throat; his Arms are brawny, and nails croo<g ref="char:EOLhyphen"/>ked and narrow.</p>
+               </div>
+               <div type="section">
+                  <head>Of Poyſoners.</head>
+                  <p>They have dry and goggle Eyes, the Circle of them diſproportioned, rolling and black with pale or bloody ſpecks.</p>
+               </div>
+               <div type="section">
+                  <head>Of thoſe who are of dull Capacity.</head>
+                  <p>Their Head is either too big or too little, their Face broad and Neck ſoft.</p>
+               </div>
+               <div type="section">
+                  <pb n="64" facs="tcp:38245:45"/>
+                  <head>Of the Wicked man.</head>
+                  <p>His Ey-teeth are long advanced forward, and well faſtned; he is ready in diſcourſe, eſpecially if his voice be ſlender, or he ſpeak through the noſe, and with difficulty; he hath an ill Look, and is a little out-mouthed; his Neck is awry and knob<g ref="char:EOLhyphen"/>by, he is ſpindle-ſhanck'd, and his feet ill made, and hollow in the ſoles; his eyes all the length of the Face, eſpecially the Apple or Ball of the Eye, looking as if they moved joyntly, glittering like dry Marble, of a black colour, ſtaring as if they would ſtart out of his head, they cloſe not, are pale, reddiſh and dry.</p>
+               </div>
+               <div type="section">
+                  <head>Of thoſe who have weak Memories.</head>
+                  <p>Their upper parts are larger than their lower, as the hands than the Feet proportionable, <hi>&amp;c.</hi>
+                  </p>
+               </div>
+               <div type="section">
+                  <head>Of the <g ref="char:V">Ʋ</g>nfaithful.</head>
+                  <p>His Eyes are hollow, dry and of a dark colour, conſtantly moving and roaling, as if he were diſ<g ref="char:EOLhyphen"/>compoſed; his head is very ſmall, and ill pro<g ref="char:EOLhyphen"/>portioned, he hath a weak Back, and rough Fore<g ref="char:EOLhyphen"/>head, full of wrinkles and ſmall furrows; high ſhoulder'd and hands ſmall and ſlender.</p>
+               </div>
+               <div type="section">
+                  <pb n="65" facs="tcp:38245:45"/>
+                  <head>Of thoſe that have Venomous Eyes.</head>
+                  <p>Their lower Lips are ſmall and ſwelled towards the Ey-Teeth.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Inconſtant.</head>
+                  <p>They have a little forehead, and a very little Noſe, long, thin and ſlender at the End, they are flat mouth'd, their Belly and Breaſt is hairy, their Eyes are little, and of a ſad colour.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Imprudent.</head>
+                  <p>He is either very big, or of a ſlender Body; Breath's like one that hath newly run a Race; he hath a high Forhead, and little eyes, ſtanding outward, ſparking like a Diamond, or elſe they are of a dark reddiſh, or ſanguine colour; languiſhing, of<g ref="char:EOLhyphen"/>ten opening and cloſing: his fingers are knotty and ill ſhaped, he walks ſwiftly poiſing his Body uprightly, hath a parched skin and color'd, which ſhews him to be of a hot Conſtitution: he is timo<g ref="char:EOLhyphen"/>rous, and if ſurpris'd, ſhrinks himſelf up together.</p>
+               </div>
+               <div type="section">
+                  <pb n="66" facs="tcp:38245:46"/>
+                  <head>Of the Fooliſh.</head>
+                  <p>They have a large broad Forehead, and their Eyes ſquinting towards the right ſide, and the Ball thereof is very ſmall; they have a ſad Counte<g ref="char:EOLhyphen"/>nance, and their upper-lip is thick, hanging over the under-lip, they have a nimble Tongue, laugh much and have a ſharp or piercing voice, they have a long Neck, and uſually bend forwards, either in that or ſome other part of the Body; their hands are very much bended backwards, and their ſhoul<g ref="char:EOLhyphen"/>ders are hairy.</p>
+               </div>
+               <div type="section">
+                  <head>Of the rude and uncivilized Perſons.</head>
+                  <p>They have great large heads, are flaxen hair'd, inclining to white, their foreheads plump, and their Noſe ill proportion'd to the Face, they are out mouthed, their Lips thick and round, or the un<g ref="char:EOLhyphen"/>der-lip ſtanding out; their neck big brawny and hard, and as it were immovable; they have large and harſh hands, and their Nails over-grown with fleſh; their Fingers are long and ſlender, ſhoulders high and their Legs and Heels are large.</p>
+               </div>
+               <div type="section">
+                  <pb n="67" facs="tcp:38245:46"/>
+                  <head>Of the Timororus.</head>
+                  <p>They have an ill colored ſqui<gap reason="illegible" resp="#UOM" extent="3+ letters">
+                        <desc>•••…</desc>
+                     </gap>g-Ey, they are black or fair Complexioned, a full face or bony with large Foreheads, thin Lips and little Mouths; a trembling low Voice, their hair is lank or curled, ſoft and full, black or white, and the hinder part of the head hollow: they draw their breath faint<g ref="char:EOLhyphen"/>ly or ſlowly, their hands are long and ſlender, their Breaſt weak and lean without hair, their Thighs thin, Neck long, and the Extremities of their Bodies are feeble, they are ſoft skin'd, and their Body ſtooping.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Covetous.</head>
+                  <p>His Face, Members and Eyes are little; his Complexion ſomewhat Ruddy, hath a crook'd Back, and a ſharp piercing querulous voice.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Raſh.</head>
+                  <p>Their Eyes are ſhining, yet ſquinting, cloſing with a ſevere Look, their Ey-brows are hairy, their Ey-lids harſh and thick, or cloſing directly, moiſt, of an exact proportion, and caſting a Luſtre, they have a ſmooth Fore-head, wide and out Mouth, with ſhort thick fingers</p>
+               </div>
+               <div type="section">
+                  <pb n="68" facs="tcp:38245:47"/>
+                  <head>Of the Drunkard.</head>
+                  <p>He hath plump Cheeks alwaies rudy, a little Face and yellow Complexion, his Ey-lids advan<g ref="char:EOLhyphen"/>ced downwards, reddiſh, moiſt large or goggle Eys, as if they would ſtart out of the head, he draweth his breath nimbly and frequently, his Throat is rough, the Vertebra thereof ſtanding out.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Proud.</head>
+                  <p>His Eybrows are arch'd and often moving up<g ref="char:EOLhyphen"/>wards, the Belly big, fleſhy and hanging down, have a ſlow pace and often ſtop in the ſtreets of their own accord, looking about on all ſides, and he hath dry ſad colored Eys.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Luxurious.</head>
+                  <p>His hair is ſtraight black and thin, or head bald, his Chin plump and full; and the Circum<g ref="char:EOLhyphen"/>ference of that part which is between the Chin and the Noſe is hollow; he hath a wide noſe and round near the Forehead, or flat, his Eyes are ra<g ref="char:EOLhyphen"/>dient, or elſe have a green Circle under a black one; the Ey-lids conſtantly moving, and the hair of the ſame ſhedding, is of a pale Complexion
+<pb n="69" facs="tcp:38245:47"/>and hairy, his beard playes with his noſe, the veins of his Arms are viſible, his hands hairy, his Toes cloſely joyned together, and the Nails very round.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Impudent.</head>
+                  <p>His Eyes are fiery red or big, and Ey-lids red and large, his hair red, Ey-brows long, and Complexion ruddy; the Face long or flat, Cop<g ref="char:EOLhyphen"/>ped crowned, and hook-Noſ'd from the Fore<g ref="char:EOLhyphen"/>head downward; he is loud in his laughter, as if he had a Cough or difficulty of breathing, he hath a fierce bold impudent Look, moves haſtily, is high-ſhouldr'd, and goes ſomewhat ſtooping; the Tincture of his body is ruddy, of a ſanguine co<g ref="char:EOLhyphen"/>lour, his breaſt high cheſted, and he hath thick Legs.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Lyars.</head>
+                  <p>They have a full face, a noſe big in the middle, growing narrow at the Top, ſmiling about the Mouth, the Ey-brows depreſſed, and looking as it were by ſtealth, and the Eyes lively and ſmi<g ref="char:EOLhyphen"/>ling; of a quick and ſhrill ſpeech or ſpeaking through the Noſe; and the body uſually crooked.</p>
+               </div>
+               <div type="section">
+                  <pb n="70" facs="tcp:38245:48"/>
+                  <head>Of the Infirm.</head>
+                  <p>Their Eybrows are thin, fat, ſtretch'd out or immovable; their Neck it ſlender, their arms and Elbows ſmall, and their hands ſmall, ſlender and ill joynted, the paps of their Breaſts ſmall and ex<g ref="char:EOLhyphen"/>tenuated, and they ſtammer or liſp in their ſpeech.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Voluptuous woman.</head>
+                  <p>She is of a pale or brown Complexion, ſlender and lean, ſtraight bodied, hath little hard Breaſts, her hair is curld and ſhort, her voice ſhrill and loud, ſhe is bold of ſpeech, proud and cruel, very officious and loves good Liquor:</p>
+               </div>
+               <div type="section">
+                  <head>Of the Slothful.</head>
+                  <p>He hath a large plump face, and great Cheeks, very large Eyes, of a ſlow Motion, he hath a broad Forehead, and a drowſy look, ſpeaks little and de<g ref="char:EOLhyphen"/>liberately, his body is very hairy, and his pace large and ſlow, or ſhort and ſlow; his face is of a honey Colour, and the lower part of the Noſe big.</p>
+               </div>
+               <div type="section">
+                  <pb n="71" facs="tcp:38245:48"/>
+                  <head>Of the Intemperate.</head>
+                  <p>His Eyes are fad color'd, looking upwards when they begin to cloſe, or pleaſant and moiſt, otherwiſe big and reddiſh, he is wide mouth'd, ſoft and big-belly'd hanging down.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Diſſembler.</head>
+                  <p>He hath ſparkling hollow and little Eyes, his Eybrows bending to the Temples, he is plump in thoſe parts, that belong to the Face, thoſe that are about the Eye are wrinkled; he is of a ſeem<g ref="char:EOLhyphen"/>ing ſleepy but pleaſant Aſpect, hath a low voice, good gate, and is alwayes in Motion, walking ſom<g ref="char:EOLhyphen"/>times apace and ſometimes ſoftly.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Dull perſon.</head>
+                  <p>He is Naturally hot, his head bigger than or<g ref="char:EOLhyphen"/>dinary, the Conveyances through which the Spi<g ref="char:EOLhyphen"/>rits of the head move to and fro are ſo narrow, that they are ſoon ſtopp'd, which makes him ſlee<g ref="char:EOLhyphen"/>py and drowſy; his body is ſo fat and veins ſo narrow, that they are ſcarce viſible.</p>
+               </div>
+               <div type="section">
+                  <pb n="72" facs="tcp:38245:49"/>
+                  <head>Of the Flatterer.</head>
+                  <p>His Eyes are different and ſmall, he hath a little Face, a ſerene and extended Brow, moving his Body to and fro as he walks.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Envious.</head>
+                  <p>Their Eye-brows are down-caſt even to the Cheeks, their Face and Cheeks fat, of a pale Com<g ref="char:EOLhyphen"/>plexion, and the Mouth wide, They have long ſharp and white Teeth, they have hollow Eyes and ſhort Arms, and a delicate ſharp voice.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Talkative Perſon.</head>
+                  <p>His Noſe is ſtraight or big in the middle, grow<g ref="char:EOLhyphen"/>ing narrow at the Top; he is long Cheek'd, and of a hony-color'd Complexion; his Chin is long and Throat rough, his hands ſlender and bent, and his Fingers ſmall, he is well ſhap'd, and breaths as if he had run a race.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Irreligious.</head>
+                  <p>Their Temples are hollow, and Ey-brows join<g ref="char:EOLhyphen"/>ed together, and hairy, their Eyes hollow, little or
+<pb n="73" facs="tcp:38245:49"/>great and full of Motion, ſparkling as if they were angry, opening themſelves very wide, piercing, and ſwell'd round about, they have a wide Mouth, and long ſharp white ſtrong Teeth.</p>
+               </div>
+               <div type="section">
+                  <head>Of the Gameſters.</head>
+                  <p>They have thick ſtrait and black hair, a thick Beard, hairy Temples; and a plump ſparkling and clear Ey, large rediſh and looking upwards.</p>
+               </div>
+               <div type="section">
+                  <head>The Perilous days of every Month.</head>
+                  <p>In the Change of every Moon are two dayes which are perilous for many things.</p>
+                  <list>
+                     <item>In <hi>January</hi> 3 or 4.</item>
+                     <item>In <hi>March</hi> 6 or 7.</item>
+                     <item>In <hi>May</hi> 8. or 9.</item>
+                     <item>In <hi>July</hi> 3. or 13.</item>
+                     <item>In <hi>September</hi> 8. or 13.</item>
+                     <item>In <hi>November,</hi> 5. or 9.</item>
+                     <item>In <hi>February</hi> 5. or 7.</item>
+                     <item>In <hi>April</hi> 5. or 8.</item>
+                     <item>In <hi>June</hi> 5. or 15.</item>
+                     <item>In <hi>Auguſt</hi> 8. or 13.</item>
+                     <item>In <hi>October</hi> 5. or 12.</item>
+                     <item>In <hi>December</hi> 3 or 13.</item>
+                  </list>
+               </div>
+            </div>
+            <div type="poem">
+               <pb n="74" facs="tcp:38245:50"/>
+               <head>Hereafter follows the Praiſe of <hi>ALE,</hi> wherein is Ennumerated ſeveral Sorts of Drinks with a Deſcription of the Humours of moſt ſorts of <hi>Drunkards.</hi>
+               </head>
+               <l>
+                  <hi>BAchus</hi> having call'd a Parliament of late,</l>
+               <l>For to conſult about ſome things of State,</l>
+               <l>Nearly concerning the Honour of his Court;</l>
+               <l>To'th Sun, behind Th'Exchange, they did Reſort:</l>
+               <l>Where being met, and many things that time</l>
+               <l>Concerning the adulterating Wine,</l>
+               <l>And other Liquors; Selling of Ale in Mugs,</l>
+               <l>Silver Tankards, Black-pots, and little Jugs:</l>
+               <l>Strong beer in Rabbits, and cheating penny Cans,</l>
+               <l>Three Pipes for two pence; and ſuch like Trepans:</l>
+               <l>Vintners ſmall Bottles, Silver mouth'd black Jacks,</l>
+               <l>Papers of Sugar, with ſuch like cheating knacks:</l>
+               <l>And many ſuch-like things were then debated,</l>
+               <l>And Bills paſt, upon the Caſes ſtated:</l>
+               <l>And all things ready for Adjournment, then</l>
+               <l>Stood up one of the Northen Country men,</l>
+               <pb n="75" facs="tcp:38245:50"/>
+               <l>A Boon-fellow, and Lover of ſtrong Ale,</l>
+               <l>Whoſe tongue well ſteep'd in Sack begun this Tale,</l>
+               <l>My Bully Rocks, I've been expetienc'd long</l>
+               <l>In moſt of Liquors which are counted Strong:</l>
+               <l>Of <hi>Claret, White wine</hi> and <hi>Canary-ſack,</hi>
+               </l>
+               <l>
+                  <hi>Rheniſh</hi> and <hi>Malago,</hi> I've had no lack;</l>
+               <l>
+                  <hi>Sider, Perry, Metheglin,</hi> and <hi>Sherbet,</hi>
+               </l>
+               <l>
+                  <hi>Coffee</hi> and <hi>Mead,</hi> with <hi>Punch</hi> and <hi>Chocalet:</hi>
+               </l>
+               <l>
+                  <hi>Rum</hi> and <hi>Tee, Azora</hi> wine, <hi>Mederry,</hi>
+               </l>
+               <l>
+                  <hi>Vin de Paree, Brag,</hi> wine with <hi>Roſemary:</hi>
+               </l>
+               <l>
+                  <hi>Stepony, <g ref="char:V">Ʋ</g>ſquebath,</hi> beſides all theſe,</l>
+               <l>
+                  <hi>Aqua Caelestis Cinnamon, Hearts-eaſe:</hi>
+               </l>
+               <l>Brave <hi>Roſa Solis,</hi> and other Liquors fine,</l>
+               <l>
+                  <hi>Rasberry Wine, Pur-royal,</hi> and <hi>Shampine:</hi>
+               </l>
+               <l>
+                  <hi>Malmſey,</hi> and <hi>Viper</hi>-wine, all theſe I paſs:</l>
+               <l>
+                  <hi>Fronteniack,</hi> with excellent <hi>Ipocras:</hi>
+               </l>
+               <l>
+                  <hi>Mum, Cherry</hi>-wine, <hi>Langoon;</hi> and <hi>Lemmonad,</hi>
+               </l>
+               <l>
+                  <hi>Sherry,</hi> and <hi>Port a Port,</hi> both white and red.</l>
+               <l>
+                  <hi>Pomgranate, Mirtle,</hi> and <hi>Iſop</hi>-wine I know,</l>
+               <l>
+                  <hi>I pres</hi> and <hi>Orleans, Coos,</hi> and eke <hi>Anjow,</hi>
+               </l>
+               <l>
+                  <hi>Burgundian</hi>-wine, <hi>Coecubum, Sage</hi> and <hi>Must,</hi>
+               </l>
+               <l>
+                  <hi>Fennel</hi> and <hi>Wormwoad</hi>-wine have paſt my Guſt,</l>
+               <l>
+                  <hi>Hydromel, Mulſum,</hi> wine boil'd with <hi>Southerwood,</hi>
+               </l>
+               <l>
+                  <hi>Opimium, Smirna,</hi> and <hi>Biaeon</hi> good:</l>
+               <l>
+                  <hi>Temetum, Lora</hi> and brave <hi>Muskadel,</hi>
+               </l>
+               <l>
+                  <hi>Rumney</hi> and <hi>Nectar</hi> too that doth excell:</l>
+               <l>
+                  <hi>Scilian, Naples</hi> and <hi>Lorain</hi> wine,</l>
+               <l>
+                  <hi>Moravia, Malta</hi> and <hi>Corſica</hi> fine:</l>
+               <pb n="76" facs="tcp:38245:51"/>
+               <l>
+                  <hi>Tent, Muskatine, Brandy,</hi> and <hi>Alicant,</hi>
+               </l>
+               <l>Of all theſe Liquors I've had no ſcant,</l>
+               <l>And ſeveral others; but none do I find,</l>
+               <l>Like Humming <hi>Northern ALE</hi> to pleaſe my mind,</l>
+               <l>Oh its pleaſant to the Taſte, ſtrong and mellow,</l>
+               <l>He that affects it not, is no boon Fellow.</l>
+               <l>He that in this drink doth let his Senſes ſwim,</l>
+               <l>There's neither wind nor ſtorms wil pierce on him:</l>
+               <l>It warms in Winter, in Summer opes the Pores,</l>
+               <l>'Twil make a ſovereign Salve' gainſt cuts &amp; ſores:</l>
+               <l>It ripens Wit, exhilerates the Mind,</l>
+               <l>Makes friends of foes, &amp; foes of Friends full kind;</l>
+               <l>Its Phyſical, for old Men, warms their Blood:</l>
+               <l>Its Spirits makes the Coward's courage good:</l>
+               <l>The amorous Lady it will pleaſure too,</l>
+               <l>Make frozen Maids, and Nuns, and Virgins do</l>
+               <l>The thing you wot; Soldiers and Gown-men,</l>
+               <l>Rich and poor, old and young, lame &amp; ſound men</l>
+               <l>May ſuch Advantage have by drinking Ale,</l>
+               <l>As ſhould I tell, you'd think 'twere but a Tale;</l>
+               <l>Miſtake me not, Cuſtom, I mean not tho,</l>
+               <l>of exceſſive Drinking, as great Ranters do,</l>
+               <l>for that would turn a great Wit to a Sot,</l>
+               <l>I mean the merry Quibling o're a Pot,</l>
+               <l>Which makes dull Melancholy ſpirits be,</l>
+               <l>For Criticks and great Wits, good Company.</l>
+               <l>Oh the rare Virtues of this Barly Broth;</l>
+               <l>To rich and poor it's Meat and Drink and Cloth,</l>
+               <pb n="77" facs="tcp:38245:51"/>
+               <l>The Court here ſtopt him, and the Prince did ſay,</l>
+               <l>Where may we find this Nectar, I thee pray,</l>
+               <l>The boon good Fellow anſwer'd, I can tell,</l>
+               <l>
+                  <hi>North-Allerton,</hi> in <hi>York-ſhire</hi> doth excell</l>
+               <l>All <hi>England,</hi> nay all <hi>Europe</hi> for ſtrong Ale,</l>
+               <l>If thither we adjorn, we ſhall not fail</l>
+               <l>To taſte ſuch humming Stuff, as, I dare ſay,</l>
+               <l>Your Highneſs never taſted to this day.</l>
+               <l>They hearing this, the Houſe Agreed upon</l>
+               <l>All for Adjournment to <hi>North-Allerton:</hi>
+               </l>
+               <l>Madam <hi>Bradley's,</hi> was the chief houſe then nam'd,</l>
+               <l>Where they muſt taſte this noble drink ſo fam'd,</l>
+               <l>And nois'd abroad in each place far and near.</l>
+               <l>Nay, take it <hi>Bradly</hi> for ſtrong Ale and Beer,</l>
+               <l>Thou haſt it looſe, there's none can do ſo well</l>
+               <l>In brewing Ale, thou doſt all elſe excel.</l>
+               <l>Adjournment day being come, there did appear</l>
+               <l>A brave full houſe, <hi>Bachus</hi> himſelf was there.</l>
+               <l>This Nectar was brought in, each had his Cup,</l>
+               <l>But at the firſt they did but ſipple up</l>
+               <l>This rare <hi>Ambroſia;</hi> but finding that.</l>
+               <l>'Twas grateful to the Taſte, and made them chat,</l>
+               <l>And laugh and talk, O then when all was out,</l>
+               <l>They call'd for more, and drunk full Cans about;</l>
+               <l>But in ſhort ſpace, ſuch ſtrange Effects it wrought</l>
+               <l>Amongſt the Courtiers, as <hi>Bachus</hi> never thought</l>
+               <l>Or dream'd upon: his wiſe men it made Pools,</l>
+               <l>And made his Councellors to look like Owls.</l>
+               <pb n="78" facs="tcp:38245:52"/>
+               <l>The ſimple ſort of Fellows it made prate,</l>
+               <l>And talk of Court Affairs, and things of State:</l>
+               <l>And thoſe who were dull Fellows when they came,</l>
+               <l>Were now turn'd nimble Orators of Fame:</l>
+               <l>And ſuch of them were thought to be no Wits,</l>
+               <l>Were Metamorphis'd into excellent Poets:</l>
+               <l>Thoſe that were ſame, and came there with a ſtaff,</l>
+               <l>Threw't quite away, which made the Prince to laugh,</l>
+               <l>The Cripgles which did Crutches thither bring,</l>
+               <l>Without them now did hop about and ſing:</l>
+               <l>Some o're the Forms and Stools did skip and leap,</l>
+               <l>Som knac'dtheir fingers, no plain word could ſpeak</l>
+               <l>Som ſhak'd their legs and arms with great delight,</l>
+               <l>Some curſt and ſwore, and others they did fight;</l>
+               <l>Some, antick tricks did play like a Babboon,</l>
+               <l>Som knit their brows, did ſhake their heads &amp; frown,</l>
+               <l>Some <hi>Maudlin</hi> drunken were, and wept full ſore,</l>
+               <l>Others fell faſt aſleep, begun to ſnore:</l>
+               <l>Thouſands of Lies and Stories ſome did tell,</l>
+               <l>Their tongues went like the Clapper of a Bell,</l>
+               <l>Others were tongue ti'd, could not ſpeak one word,</l>
+               <l>And ſome did caſt their reckoning up at Board.</l>
+               <l>Some ſung aloud, and did deaf their Fellows</l>
+               <l>Making a Noiſe, worſe than <hi>Vulcan</hi>'s Bellows:</l>
+               <l>Some were for baudy Talk, and ſome did ſhout;</l>
+               <l>Some miſt the Cup, and pour'd the Liquor out:</l>
+               <l>At every word, ſome did their Neighbour jump,</l>
+               <l>And ſome did often give the Board a thump.</l>
+               <pb n="79" facs="tcp:38245:52"/>
+               <l>Some were all Kindneſs, did their Fellows kiſs,</l>
+               <l>Som all bedaub'd their clothes, &amp; mouths did miſs:</l>
+               <l>For Arguments ſome were, and learn'd diſcourſes,</l>
+               <l>Som talk'd of grey-hounds, ſom of running horſes,</l>
+               <l>Som talk'd of hounds, and ſom of Cocks o'th game,</l>
+               <l>Som naught but hawks, and ſetting dogs did name:</l>
+               <l>And ſome were all for drinking healths about;</l>
+               <l>Others did rub the Table with their Snout:</l>
+               <l>Some piſs'd i'th fire, others threw out their ſnuffs,</l>
+               <l>And ſome were mad to be at handy Cuffs.</l>
+               <l>Some ſwore that they would have a <hi>Serenade,</hi>
+               </l>
+               <l>Others did call their Hoſteſs Whore and Jade:</l>
+               <l>And round about did throw the cups and glaſſes,</l>
+               <l>The drink did fly into their Neighbours Faces:</l>
+               <l>Some were for Bargains ſome for Wagers laying:</l>
+               <l>Others for Cards and Tables cry'd, for playing:</l>
+               <l>Some broke the Pipes, &amp; round about them threw,</l>
+               <l>Some ſmoakd Tobacco till their noſe was blew.</l>
+               <l>Some in the fire fell and ſing'd their Cloaths,</l>
+               <l>And ſome fell from their Seat &amp; broke their noſe.</l>
+               <l>Some could not ſtir a Foot, did ſit and glore,</l>
+               <l>Some ſought the houſe all over for a whore,</l>
+               <l>Some call'd for Muſick, others were for a dance,</l>
+               <l>And ſome lay ſtaring, as if in a Trace.</l>
+               <l>Some call'd for Victuals, others for a Cruſt,</l>
+               <l>Some op'd their Buttons, and were like to burſt.</l>
+               <l>Some challeng'd all the people that were there,</l>
+               <l>And ſome with ſtrange invented Oaths did ſwear.</l>
+               <pb n="80" facs="tcp:38245:53"/>
+               <l>Some told how many Women they had us'd:</l>
+               <l>Others at ſuch Diſcourſe were ſore amus'd.</l>
+               <l>Some ſhirk'd their drink, did put away the Cup,</l>
+               <l>And ſome took all that came, left not one Sup:</l>
+               <l>Some whilſt they ſober were, would nothing pay:</l>
+               <l>But when once drunk would all the ſhot defray:</l>
+               <l>Others whilſt ſober, were as free as any:</l>
+               <l>But being drunk, refuſe to pay one penny.</l>
+               <l>Some were for News, and how the State of things</l>
+               <l>Did ſtand amongſt great Potentates and Kings:</l>
+               <l>Some all their Friends &amp; Neighbors did backbite:</l>
+               <l>And ſome in jearing others took delight:</l>
+               <l>Some, of their Birth and Riches, made great boaſt:</l>
+               <l>And none but they, were fit to rule the roaſt.</l>
+               <l>Some fill'd the room with noiſe, yet cou'd not ſpeak</l>
+               <l>One word of Engliſh, Latine, French or Greek:</l>
+               <l>Or any other Language, which one might</l>
+               <l>Put into Senſe, and underſtand aright.</l>
+               <l>Some were ſo holy that they would not hear,</l>
+               <l>Words either that profane or ſmutty were.</l>
+               <l>Some in a Melancholy poſture laid?</l>
+               <l>Others did cry, What is the Reckning paid.</l>
+               <l>Some burnt their hats, others the windows broke,</l>
+               <l>Some cry'd, More liquor, we are like to choak:</l>
+               <l>Some piſs'd their Breeches, ſirreverence your noſe,</l>
+               <l>Some not only piſs' but all be—their hoſe:</l>
+               <l>Lame gouty men did dance about ſo ſprightly,</l>
+               <l>A boy of fifteen ſcarce could skip ſo lightly.</l>
+               <pb n="81" facs="tcp:38245:53"/>
+               <l>Old Crampy Captains, that ſcarce a Sword could draw,</l>
+               <l>Swore now they'd keep the King of <hi>France</hi> in Awe;</l>
+               <l>And new Commiſſions get to raiſe more Men,</l>
+               <l>For now they Swore, they were grown young again.</l>
+               <l>Off went their Perriwigs, Coats and Rapers:</l>
+               <l>Out went the Candles, Noſes for Tapers</l>
+               <l>Serv'd to give Light whilſt they did dance around,</l>
+               <l>Drinking full Healths with Caps upon the ground,</l>
+               <l>And ſtill as they did dance their round-delayes,</l>
+               <l>They all did cry, This Drink deſerves the Bayes</l>
+               <l>Above all Liquors we have ever taſted,</l>
+               <l>It's pitty that a drop of it were waſted:</l>
+               <l>A ſtranger coming by, did hear the Noiſe,</l>
+               <l>He ſtep'd into the Houſe to ſee the Boyes.</l>
+               <l>Such ſights he ſaw, as he ne'r ſaw before,</l>
+               <l>Which made him Laugh until his ſides were ſore:</l>
+               <l>His Horſe did follow, and ſaw their quaffing,</l>
+               <l>He Nee'd aloud, and broke his Girts with laughing,</l>
+               <l>Theſe Antick ſights caus'd <hi>Bachus</hi> to Admire,</l>
+               <l>And then he did begin for to enquire:</l>
+               <l>What Priviledges were beſtow'd upon</l>
+               <l>This Famous Ale-Town of <hi>North Allerton?</hi>
+               </l>
+               <l>The Anſwer was, That it was only known,</l>
+               <l>To have four Fairs i'th year, a Burrough-Town,</l>
+               <l>One Market every week, and that was all:</l>
+               <l>This moved <hi>Bachus</hi> preſently to call</l>
+               <pb n="82" facs="tcp:38245:54"/>
+               <l>For a great Jugg, which held above five quarts,</l>
+               <l>And filling't to the Brim; come here my Hearts,</l>
+               <l>Said he, wee'l drink about this merry Health,</l>
+               <l>To the Honour of the Town, their State and Wealth.</l>
+               <l>For by the Eſſence of this Drink, I Swear,</l>
+               <l>This Town is Famous for ſtrong Ale and Beer,</l>
+               <l>And for the ſake of this good Nappy Ale,</l>
+               <l>Of my great Favour it ſhall never fail;</l>
+               <l>For to promote the quick Return and Trade</l>
+               <l>For all ſtrong Ale and Beer, that here is made:</l>
+               <l>So to't they went, and Drunk full Healths about,</l>
+               <l>Till they drunk Money, Wit, and Senſes out.</l>
+               <l>For whileſt one drop of Ale was to be had,</l>
+               <l>They quaft, and Drunk it round about like mad.</l>
+               <l>When all was off, then out they pull'd the Tapps,</l>
+               <l>And ſtuck the Spiddocks, finely in their Hats:</l>
+               <l>And ſo Triumphantly away they went,</l>
+               <l>But they did all agree with one conſent,</l>
+               <l>That 'er 'twas long, again they'd ſurely come,</l>
+               <l>And taſt ſome more of <hi>Allertons</hi> brave Hum;</l>
+               <l>Nay they did Swear to come, they would not fail,</l>
+               <l>And glut themſelves with Madam <hi>Bradley</hi>'s Ale:</l>
+               <l>It was ſo pleaſant, mellow and fine,</l>
+               <l>That <hi>Bachus</hi> ſwore hee'd never more drink Wine.</l>
+            </div>
+            <div type="diagram">
+               <pb n="83" facs="tcp:38245:54"/>
+               <p>
+                  <figure>
+                     <head>
+                        <hi>Phythagoras WHEEL; Or,</hi> The Wheel of FORTUNE.</head>
+                     <p>
+                        <table>
+                           <row>
+                              <cell>
+                                 <list>
+                                    <item>A 4</item>
+                                    <item>B 6</item>
+                                    <item>C 26</item>
+                                    <item>D i8</item>
+                                    <item>E i2</item>
+                                    <item>F 4</item>
+                                    <item>G 2i</item>
+                                    <item>H 28</item>
+                                    <item>I ii</item>
+                                    <item>K i6</item>
+                                    <item>L i2</item>
+                                    <item>M i9</item>
+                                    <item>N ii</item>
+                                    <item>O 9</item>
+                                    <item>P i2</item>
+                                    <item>Q 8</item>
+                                    <item>R i2</item>
+                                    <item>S 4</item>
+                                    <item>T 6</item>
+                                    <item>V 9</item>
+                                    <item>W i</item>
+                                    <item>X i3</item>
+                                    <item>Y 3</item>
+                                    <item>Z 2</item>
+                                 </list>
+                              </cell>
+                              <cell>
+                                 <list>
+                                    <item>7</item>
+                                    <item>i3</item>
+                                    <item>i0</item>
+                                    <item>i6</item>
+                                    <item>20</item>
+                                    <item>22</item>
+                                    <item>30</item>
+                                    <item>6</item>
+                                    <item>i5</item>
+                                    <item>8</item>
+                                    <item>26</item>
+                                    <item>i9</item>
+                                    <item>i2</item>
+                                    <item>5</item>
+                                    <item>i</item>
+                                    <item>9</item>
+                                    <item>4</item>
+                                    <item>3</item>
+                                    <item>ii</item>
+                                    <item>2</item>
+                                 </list>
+                              </cell>
+                              <cell>
+                                 <list>
+                                    <item>24</item>
+                                    <item>27</item>
+                                    <item>i4</item>
+                                    <item>23</item>
+                                    <item>29</item>
+                                    <item>28</item>
+                                    <item>25</item>
+                                    <item>i8</item>
+                                    <item>2i</item>
+                                    <item>i7</item>
+                                 </list>
+                              </cell>
+                           </row>
+                        </table>
+                     </p>
+                  </figure>
+               </p>
+               <list>
+                  <head>Theſe Queſtions following may be anſwered by this <hi>Pithagorian</hi> WHEEL.</head>
+                  <item>1. IF your Life ſhall be Fortunate or Unfortu<g ref="char:EOLhyphen"/>nate.</item>
+                  <pb n="84" facs="tcp:38245:55"/>
+                  <item>2. Whether you ſhall gain by your Trade or looſe.</item>
+                  <item>3. If you ſhall live long, or dye ſoon.</item>
+                  <item>4. Whether a Horſe ſhall win his Race or loſe it.</item>
+                  <item>5. If the perſon you Love do Love you again or no.</item>
+                  <item>6. Whether you ſhall dye of a long ſickneſs or a ſhort one.</item>
+                  <item>7. If your journy ſhall prove good or bad.</item>
+                  <item>8. Whether you ſhall win your Wager or loſe it.</item>
+                  <item>9. If Love loſt ſhall be gotten again or no.</item>
+                  <item>10. Whether a Woman be a Maid or no.</item>
+                  <item>11. If you ſhall obtain your deſire or be diſap<g ref="char:EOLhyphen"/>pointed.</item>
+                  <item>12. Whether your Wife be true to your Bed or falſe.</item>
+                  <item>13. If a Woman ſhall have Children or prove Barren.</item>
+                  <item>14. Whether you ſhall marry or lead a ſingle Life.</item>
+                  <item>15. If you ſhall be in favour with great men or no.</item>
+                  <item>16. Whether the Husband ſhall dye firſt or the Wife.</item>
+                  <item>17. If a ſick perſon ſhall recover or dye.</item>
+                  <item>18. Whether you ſhall dye a natural Death or no.</item>
+                  <pb n="85" facs="tcp:38245:55"/>
+                  <item>19. If a Grey-hound ſhall win his courſe or loſe it.</item>
+                  <item>20. Whether a priſoner ſhall be releaſed or no.</item>
+                  <item>21. If a Suit at Law ſhall go for you or againſt you.</item>
+                  <item>22. Whether you ſhall dye at home or a<g ref="char:EOLhyphen"/>broad.</item>
+                  <item>23. If a Woman with Child ſhall have a Son or a Daughter.</item>
+                  <item>24. Whether you had better take a voyage or ſtay in Harbour.</item>
+                  <item>25. If it be good to Wedd a Wife or not to Wedd.</item>
+                  <item>26. Whether your Son or Daughter ſhall mar<g ref="char:EOLhyphen"/>ry well or ill.</item>
+                  <item>27. If a ſhip at Sea ſhall come ſafe home or no.</item>
+                  <item>28. Whether there ſhall be peace or War.</item>
+                  <item>29. If it ſhall be a plentiful year or no.</item>
+                  <item>30. Whether you ſhall gain by a bargain or loſe.</item>
+                  <item>31. If a perſon abſent be living or dead.</item>
+                  <item>32. Whether you ſhall get a Debt owing to you or no.</item>
+                  <item>33. If a thing loſt, ſhall be found again or no.</item>
+                  <item>34. Whether you ſhall dye Rich or P<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>or.</item>
+                  <item>35. If you ſhall be much loved in the World, or much hated.</item>
+                  <pb n="86" facs="tcp:38245:56"/>
+                  <item>36. Whether your Servants are true to you or falſe.</item>
+                  <item>37. If a ſtory you have heard be true or falſe.</item>
+                  <item>38. Whether you ſhall have much Health or much ſickneſs.</item>
+                  <item>39. If a marriage intended ſhall proceed or no.</item>
+                  <item>40. Whether you ſhall gain by play, or loſe by it.</item>
+                  <item>41. If you ſhall prove ſucceſsful in your un<g ref="char:EOLhyphen"/>dertaking or no.</item>
+                  <item>42. Whether want of Children is the Mans fault, or the Womans.</item>
+                  <item>43. If you ſhall gain by keeping a Commodity, or loſe.</item>
+                  <item>44. Whether your Farm ſhall yield you much increaſe or little.</item>
+                  <item>45. If your Sweet-hearts Love be true or ſeined.</item>
+                  <item>46. Whether you ſhall gain any thing by Death or no.</item>
+                  <item>47. If you ſhall have a good Market for your Commodity, or a bad one.</item>
+                  <item>48. Whether a Thief ſhall be taken, or eſcape.</item>
+                  <item>49. If an Apprentice ſhall ſtay out his time or run away.</item>
+                  <item>50. Whether a Souldier ſhall be ſlain in Battel, or no.</item>
+               </list>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="index_of_characters">
+            <pb facs="tcp:38245:56"/>
+            <head>A TABLE OF THE <hi>Phyſiognomal</hi> Characters.</head>
+            <list>
+               <item>OF the Melancholick. <hi>51</hi>
+               </item>
+               <item>Of the Phlegmatick <hi>52</hi>
+               </item>
+               <item>Of the Cholerick <hi>53</hi>
+               </item>
+               <item>Of the Sanguine <hi>54</hi>
+               </item>
+               <item>Of the juſt man. <hi>55</hi>
+               </item>
+               <item>Of the faithful Perſon: <hi>ib.</hi>
+               </item>
+               <item>Of the honeſt man. <hi>ib.</hi>
+               </item>
+               <item>Of the Prudent Perſon. <hi>56</hi>
+               </item>
+               <item>Of the good natur'd Man. <hi>ib.</hi>
+               </item>
+               <pb facs="tcp:38245:57"/>
+               <item>Of the Ingenious. <hi>57</hi>
+               </item>
+               <item>Of the Constant. <hi>ib.</hi>
+               </item>
+               <item>Of thoſe that are apt to learn. <hi>58</hi>
+               </item>
+               <item>Of the Liberal. <hi>ib.</hi>
+               </item>
+               <item>Of thoſe that have ſtrong Memories. <hi>ib.</hi>
+               </item>
+               <item>Of the temperate. <hi>59</hi>
+               </item>
+               <item>Of the Baſhful Perſon. <hi>ib.</hi>
+               </item>
+               <item>Of the Couragious. <hi>ib.</hi>
+               </item>
+               <item>Of the ſincere man. <hi>60</hi>
+               </item>
+               <item>Of the Merciful Man. <hi>ib.</hi>
+               </item>
+               <item>Of the Facetious. <hi>ib.</hi>
+               </item>
+               <item>Of the Heroick Perſon. <hi>61</hi>
+               </item>
+               <item>Of the bold and hardy. <hi>ib.</hi>
+               </item>
+               <item>Of the Mechanick. <hi>62</hi>
+               </item>
+               <item>Of the Penſive. <hi>ib.</hi>
+               </item>
+               <item>Of the unjust Perſon. <hi>ib.</hi>
+               </item>
+               <item>Of Murtherers. <hi>ib.</hi>
+               </item>
+               <item>Of the Ideot. <hi>63</hi>
+               </item>
+               <item>Of the Furious. <hi>ib.</hi>
+               </item>
+               <item>Of Poyſoners. <hi>ib.</hi>
+               </item>
+               <item>Of thoſe who are of dull Capacity. <hi>ib.</hi>
+               </item>
+               <item>Of the Wicked man. <hi>64</hi>
+               </item>
+               <item>Of thoſe that have a weak Memory. <hi>ib.</hi>
+               </item>
+               <item>Of the <g ref="char:V">Ʋ</g>nfaithful. <hi>ib.</hi>
+               </item>
+               <item>Of thoſe that have venomous Eies. <hi>65</hi>
+               </item>
+               <item>Of the Inconstant <hi>ib.</hi>
+               </item>
+               <item>Of the Imprudent. <hi>ib.</hi>
+               </item>
+               <item>Of the Fooliſh. <hi>66</hi>
+               </item>
+               <pb facs="tcp:38245:57"/>
+               <item>Of the rude and uncivilized Perſons. <hi>ib.</hi>
+               </item>
+               <item>Of the Timorous. <hi>67</hi>
+               </item>
+               <item>Of the Covetous. <hi>ib.</hi>
+               </item>
+               <item>Of the Raſh. <hi>ib.</hi>
+               </item>
+               <item>Of the Drunkand. <hi>68</hi>
+               </item>
+               <item>Of the Proud <hi>ib.</hi>
+               </item>
+               <item>Of the Luxurious. <hi>ib.</hi>
+               </item>
+               <item>Of the Impudent. <hi>69</hi>
+               </item>
+               <item>Of the Lyars. <hi>ib.</hi>
+               </item>
+               <item>Of the Infirm. <hi>70</hi>
+               </item>
+               <item>Of the Voluptuous woman. <hi>ib.</hi>
+               </item>
+               <item>Of the Slothful. <hi>ib.</hi>
+               </item>
+               <item>Of the Intemperate. <hi>71</hi>
+               </item>
+               <item>Of the Diſſembler. <hi>ib.</hi>
+               </item>
+               <item>Of the Dull perſon. <hi>ib.</hi>
+               </item>
+               <item>Of the Flatterer. <hi>72</hi>
+               </item>
+               <item>Of the Envious. <hi>ib.</hi>
+               </item>
+               <item>Of the Talkative Perſon. <hi>ib.</hi>
+               </item>
+               <item>Of the Irreligious. <hi>ib.</hi>
+               </item>
+               <item>Of the Gameſters. <hi>73</hi>
+               </item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
